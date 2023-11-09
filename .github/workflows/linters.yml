@@ -1,0 +1,24 @@
+name: Code Linters
+on:
+  - pull_request
+  - workflow_dispatch
+
+jobs:
+  pronto:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+      - name: Install pronto
+        run: bundle install --without default development test production
+      - name: Run Pronto
+        run: bundle exec pronto run -f github_combined_status github_pr_review -c origin/${{ github.base_ref }}
+        env:
+          PRONTO_PULL_REQUEST_ID: ${{ github.event.pull_request.number }}
+          PRONTO_GITHUB_ACCESS_TOKEN: "${{ github.token }}"

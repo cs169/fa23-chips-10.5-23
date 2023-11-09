@@ -1,0 +1,167 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Bernalillo County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Catron County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Chaves County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "006",
+    "name": "Cibola County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Colfax County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Curry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "De Baca County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Dona Ana County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Eddy County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Grant County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Guadalupe County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Harding County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Hidalgo County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Lea County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Lincoln County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "028",
+    "name": "Los Alamos County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Luna County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Mc Kinley County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Mora County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Otero County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Quay County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Rio Arriba County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Roosevelt County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Sandoval County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "San Juan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "San Miguel County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Santa Fe County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Sierra County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Socorro County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Taos County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Torrance County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Union County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Valencia County",
+    "fips_class": "H1"
+  }
+]

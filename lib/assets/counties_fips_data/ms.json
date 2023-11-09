@@ -1,0 +1,412 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Adams County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Alcorn County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Amite County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Attala County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Benton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Bolivar County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Calhoun County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Carroll County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Chickasaw County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Choctaw County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Claiborne County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Clarke County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Clay County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Coahoma County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Copiah County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Covington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "De Soto County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Forrest County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Franklin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "George County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Greene County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Grenada County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Hancock County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Harrison County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Hinds County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Holmes County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Humphreys County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Issaquena County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Itawamba County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Jackson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Jasper County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "Jefferson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Jefferson Davis County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Jones County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Kemper County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Lafayette County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "Lamar County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "Lauderdale County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "077",
+    "name": "Lawrence County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "079",
+    "name": "Leake County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "081",
+    "name": "Lee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "083",
+    "name": "Leflore County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "085",
+    "name": "Lincoln County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "087",
+    "name": "Lowndes County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "089",
+    "name": "Madison County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "091",
+    "name": "Marion County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "093",
+    "name": "Marshall County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "095",
+    "name": "Monroe County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "097",
+    "name": "Montgomery County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "099",
+    "name": "Neshoba County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "101",
+    "name": "Newton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "103",
+    "name": "Noxubee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "105",
+    "name": "Oktibbeha County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "107",
+    "name": "Panola County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "109",
+    "name": "Pearl River County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "111",
+    "name": "Perry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "113",
+    "name": "Pike County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "115",
+    "name": "Pontotoc County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "117",
+    "name": "Prentiss County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "119",
+    "name": "Quitman County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "121",
+    "name": "Rankin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "123",
+    "name": "Scott County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "125",
+    "name": "Sharkey County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "127",
+    "name": "Simpson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "129",
+    "name": "Smith County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "131",
+    "name": "Stone County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "133",
+    "name": "Sunflower County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "135",
+    "name": "Tallahatchie County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "137",
+    "name": "Tate County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "139",
+    "name": "Tippah County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "141",
+    "name": "Tishomingo County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "143",
+    "name": "Tunica County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "145",
+    "name": "Union County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "147",
+    "name": "Walthall County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "149",
+    "name": "Warren County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "151",
+    "name": "Washington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "153",
+    "name": "Wayne County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "155",
+    "name": "Webster County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "157",
+    "name": "Wilkinson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "159",
+    "name": "Winston County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "161",
+    "name": "Yalobusha County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "163",
+    "name": "Yazoo County",
+    "fips_class": "H1"
+  }
+]

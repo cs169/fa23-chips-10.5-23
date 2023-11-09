@@ -1,0 +1,392 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Adjuntas Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Aguada Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Aguadilla Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Aguas Buenas Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Aibonito Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Anasco Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Arecibo Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Arroyo Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Barceloneta Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Barranquitas Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Bayamon Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Cabo Rojo Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Caguas Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Camuy Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Canovanas Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Carolina Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Catano Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Cayey Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Ceiba Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Ciales Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Cidra Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Coamo Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Comerio Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Corozal Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Culebra Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Dorado Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Fajardo Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "054",
+    "name": "Florida Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Guanica Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Guayama Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Guayanilla Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Guaynabo Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "Gurabo Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Hatillo Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Hormigueros Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Humacao Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Isabela Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "Jayuya Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "Juana Diaz Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "077",
+    "name": "Juncos Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "079",
+    "name": "Lajas Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "081",
+    "name": "Lares Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "083",
+    "name": "Las Marias Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "085",
+    "name": "Las Piedras Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "087",
+    "name": "Loiza Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "089",
+    "name": "Luquillo Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "091",
+    "name": "Manati Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "093",
+    "name": "Maricao Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "095",
+    "name": "Maunabo Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "097",
+    "name": "Mayaguez Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "099",
+    "name": "Moca Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "101",
+    "name": "Morovis Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "103",
+    "name": "Naguabo Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "105",
+    "name": "Naranjito Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "107",
+    "name": "Orocovis Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "109",
+    "name": "Patillas Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "111",
+    "name": "Penuelas Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "113",
+    "name": "Ponce Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "115",
+    "name": "Quebradillas Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "117",
+    "name": "Rincon Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "119",
+    "name": "Rio Grande Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "121",
+    "name": "Sabana Grande Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "123",
+    "name": "Salinas Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "125",
+    "name": "San German Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "127",
+    "name": "San Juan Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "129",
+    "name": "San Lorenzo Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "131",
+    "name": "San Sebastian Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "133",
+    "name": "Santa Isabel Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "135",
+    "name": "Toa Alta Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "137",
+    "name": "Toa Baja Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "139",
+    "name": "Trujillo Alto Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "141",
+    "name": "Utuado Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "143",
+    "name": "Vega Alta Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "145",
+    "name": "Vega Baja Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "147",
+    "name": "Vieques Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "149",
+    "name": "Villalba Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "151",
+    "name": "Yabucoa Municipio",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "153",
+    "name": "Yauco Municipio",
+    "fips_class": "H1"
+  }
+]

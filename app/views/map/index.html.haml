@@ -1,0 +1,15 @@
+.row
+    .col-12
+        %section.mt-4#actionmap-national-section
+            %h2.text-center National Map
+            .overflow-hidden.bg-light.text-center.mb-3
+                .overflow-auto.py-3
+                    %svg.d-block.mx-auto#actionmap-national-view{ height: '600px', width: '960px',
+                     xmlns: 'http://www.w3.org/2000/svg' }
+                    %title Map of US states
+                    /* SVG element will be filled using d3.js and a topojson file. */
+/** div displays the details for each state when user hovers over the state region on the map. **/
+#actionmap-info-box
+.d-none#actionmap-info-container{ 'data-states-topojson-file': asset_path('national/states/us-states.topo.json') }
+
+= javascript_pack_tag 'national_states_map', 'data-turbolinks-track': 'reload'

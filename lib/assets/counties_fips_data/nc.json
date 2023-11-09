@@ -1,0 +1,502 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Alamance County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Alexander County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Alleghany County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Anson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Ashe County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Avery County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Beaufort County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Bertie County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Bladen County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Brunswick County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Buncombe County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Burke County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Cabarrus County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Caldwell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Camden County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Carteret County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Caswell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Catawba County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Chatham County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Cherokee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Chowan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Clay County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Cleveland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Columbus County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Craven County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Cumberland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Currituck County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Dare County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Davidson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Davie County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Duplin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "Durham County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Edgecombe County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Forsyth County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Franklin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Gaston County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "Gates County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "Graham County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "077",
+    "name": "Granville County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "079",
+    "name": "Greene County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "081",
+    "name": "Guilford County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "083",
+    "name": "Halifax County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "085",
+    "name": "Harnett County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "087",
+    "name": "Haywood County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "089",
+    "name": "Henderson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "091",
+    "name": "Hertford County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "093",
+    "name": "Hoke County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "095",
+    "name": "Hyde County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "097",
+    "name": "Iredell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "099",
+    "name": "Jackson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "101",
+    "name": "Johnston County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "103",
+    "name": "Jones County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "105",
+    "name": "Lee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "107",
+    "name": "Lenoir County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "109",
+    "name": "Lincoln County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "111",
+    "name": "Mc Dowell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "113",
+    "name": "Macon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "115",
+    "name": "Madison County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "117",
+    "name": "Martin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "119",
+    "name": "Mecklenburg County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "121",
+    "name": "Mitchell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "123",
+    "name": "Montgomery County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "125",
+    "name": "Moore County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "127",
+    "name": "Nash County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "129",
+    "name": "New Hanover County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "131",
+    "name": "Northampton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "133",
+    "name": "Onslow County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "135",
+    "name": "Orange County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "137",
+    "name": "Pamlico County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "139",
+    "name": "Pasquotank County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "141",
+    "name": "Pender County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "143",
+    "name": "Perquimans County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "145",
+    "name": "Person County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "147",
+    "name": "Pitt County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "149",
+    "name": "Polk County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "151",
+    "name": "Randolph County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "153",
+    "name": "Richmond County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "155",
+    "name": "Robeson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "157",
+    "name": "Rockingham County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "159",
+    "name": "Rowan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "161",
+    "name": "Rutherford County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "163",
+    "name": "Sampson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "165",
+    "name": "Scotland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "167",
+    "name": "Stanly County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "169",
+    "name": "Stokes County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "171",
+    "name": "Surry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "173",
+    "name": "Swain County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "175",
+    "name": "Transylvania County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "177",
+    "name": "Tyrrell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "179",
+    "name": "Union County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "181",
+    "name": "Vance County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "183",
+    "name": "Wake County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "185",
+    "name": "Warren County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "187",
+    "name": "Washington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "189",
+    "name": "Watauga County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "191",
+    "name": "Wayne County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "193",
+    "name": "Wilkes County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "195",
+    "name": "Wilson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "197",
+    "name": "Yadkin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "199",
+    "name": "Yancey County",
+    "fips_class": "H1"
+  }
+]

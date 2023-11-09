@@ -1,0 +1,442 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Adams County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Allen County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Ashland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Ashtabula County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Athens County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Auglaize County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Belmont County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Brown County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Butler County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Carroll County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Champaign County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Clark County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Clermont County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Clinton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Columbiana County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Coshocton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Crawford County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Cuyahoga County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Darke County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Defiance County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Delaware County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Erie County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Fairfield County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Fayette County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Franklin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Fulton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Gallia County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Geauga County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Greene County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Guernsey County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Hamilton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "Hancock County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Hardin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Harrison County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Henry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Highland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "Hocking County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "Holmes County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "077",
+    "name": "Huron County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "079",
+    "name": "Jackson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "081",
+    "name": "Jefferson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "083",
+    "name": "Knox County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "085",
+    "name": "Lake County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "087",
+    "name": "Lawrence County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "089",
+    "name": "Licking County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "091",
+    "name": "Logan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "093",
+    "name": "Lorain County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "095",
+    "name": "Lucas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "097",
+    "name": "Madison County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "099",
+    "name": "Mahoning County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "101",
+    "name": "Marion County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "103",
+    "name": "Medina County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "105",
+    "name": "Meigs County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "107",
+    "name": "Mercer County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "109",
+    "name": "Miami County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "111",
+    "name": "Monroe County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "113",
+    "name": "Montgomery County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "115",
+    "name": "Morgan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "117",
+    "name": "Morrow County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "119",
+    "name": "Muskingum County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "121",
+    "name": "Noble County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "123",
+    "name": "Ottawa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "125",
+    "name": "Paulding County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "127",
+    "name": "Perry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "129",
+    "name": "Pickaway County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "131",
+    "name": "Pike County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "133",
+    "name": "Portage County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "135",
+    "name": "Preble County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "137",
+    "name": "Putnam County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "139",
+    "name": "Richland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "141",
+    "name": "Ross County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "143",
+    "name": "Sandusky County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "145",
+    "name": "Scioto County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "147",
+    "name": "Seneca County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "149",
+    "name": "Shelby County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "151",
+    "name": "Stark County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "153",
+    "name": "Summit County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "155",
+    "name": "Trumbull County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "157",
+    "name": "Tuscarawas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "159",
+    "name": "Union County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "161",
+    "name": "Van Wert County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "163",
+    "name": "Vinton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "165",
+    "name": "Warren County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "167",
+    "name": "Washington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "169",
+    "name": "Wayne County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "171",
+    "name": "Williams County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "173",
+    "name": "Wood County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "175",
+    "name": "Wyandot County",
+    "fips_class": "H1"
+  }
+]

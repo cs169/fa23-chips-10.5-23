@@ -1,0 +1,27 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Bristol County",
+    "fips_class": "H4"
+  },
+  {
+    "fips_code": "003",
+    "name": "Kent County",
+    "fips_class": "H4"
+  },
+  {
+    "fips_code": "005",
+    "name": "Newport County",
+    "fips_class": "H4"
+  },
+  {
+    "fips_code": "007",
+    "name": "Providence County",
+    "fips_class": "H4"
+  },
+  {
+    "fips_code": "009",
+    "name": "Washington County",
+    "fips_class": "H4"
+  }
+]

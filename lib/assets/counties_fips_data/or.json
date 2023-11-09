@@ -1,0 +1,182 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Baker County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Benton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Clackamas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Clatsop County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Columbia County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Coos County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Crook County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Curry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Deschutes County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Douglas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Gilliam County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Grant County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Harney County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Hood River County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Jackson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Jefferson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Josephine County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Klamath County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Lake County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Lane County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Lincoln County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Linn County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Malheur County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Marion County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Morrow County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Multnomah County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Polk County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Sherman County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Tillamook County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Umatilla County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Union County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "Wallowa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Wasco County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Washington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Wheeler County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Yamhill County",
+    "fips_class": "H1"
+  }
+]

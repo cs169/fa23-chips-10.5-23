@@ -1,0 +1,797 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Appling County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Atkinson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Bacon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Baker County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Baldwin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Banks County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Barrow County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Bartow County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Ben Hill County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Berrien County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Bibb County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Bleckley County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Brantley County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Brooks County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Bryan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Bulloch County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Burke County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Butts County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Calhoun County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Camden County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Candler County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Carroll County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Catoosa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Charlton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Chatham County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Chattahoochee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Chattooga County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Cherokee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Clarke County",
+    "fips_class": "H6"
+  },
+  {
+    "fips_code": "061",
+    "name": "Clay County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "Clayton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Clinch County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Cobb County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Coffee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Colquitt County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "Columbia County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "Cook County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "077",
+    "name": "Coweta County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "079",
+    "name": "Crawford County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "081",
+    "name": "Crisp County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "083",
+    "name": "Dade County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "085",
+    "name": "Dawson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "087",
+    "name": "Decatur County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "089",
+    "name": "De Kalb County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "091",
+    "name": "Dodge County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "093",
+    "name": "Dooly County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "095",
+    "name": "Dougherty County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "097",
+    "name": "Douglas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "099",
+    "name": "Early County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "101",
+    "name": "Echols County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "103",
+    "name": "Effingham County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "105",
+    "name": "Elbert County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "107",
+    "name": "Emanuel County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "109",
+    "name": "Evans County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "111",
+    "name": "Fannin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "113",
+    "name": "Fayette County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "115",
+    "name": "Floyd County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "117",
+    "name": "Forsyth County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "119",
+    "name": "Franklin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "121",
+    "name": "Fulton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "123",
+    "name": "Gilmer County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "125",
+    "name": "Glascock County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "127",
+    "name": "Glynn County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "129",
+    "name": "Gordon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "131",
+    "name": "Grady County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "133",
+    "name": "Greene County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "135",
+    "name": "Gwinnett County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "137",
+    "name": "Habersham County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "139",
+    "name": "Hall County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "141",
+    "name": "Hancock County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "143",
+    "name": "Haralson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "145",
+    "name": "Harris County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "147",
+    "name": "Hart County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "149",
+    "name": "Heard County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "151",
+    "name": "Henry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "153",
+    "name": "Houston County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "155",
+    "name": "Irwin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "157",
+    "name": "Jackson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "159",
+    "name": "Jasper County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "161",
+    "name": "Jeff Davis County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "163",
+    "name": "Jefferson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "165",
+    "name": "Jenkins County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "167",
+    "name": "Johnson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "169",
+    "name": "Jones County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "171",
+    "name": "Lamar County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "173",
+    "name": "Lanier County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "175",
+    "name": "Laurens County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "177",
+    "name": "Lee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "179",
+    "name": "Liberty County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "181",
+    "name": "Lincoln County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "183",
+    "name": "Long County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "185",
+    "name": "Lowndes County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "187",
+    "name": "Lumpkin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "189",
+    "name": "Mc Duffie County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "191",
+    "name": "Mc Intosh County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "193",
+    "name": "Macon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "195",
+    "name": "Madison County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "197",
+    "name": "Marion County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "199",
+    "name": "Meriwether County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "201",
+    "name": "Miller County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "205",
+    "name": "Mitchell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "207",
+    "name": "Monroe County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "209",
+    "name": "Montgomery County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "211",
+    "name": "Morgan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "213",
+    "name": "Murray County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "215",
+    "name": "Muscogee County",
+    "fips_class": "H6"
+  },
+  {
+    "fips_code": "217",
+    "name": "Newton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "219",
+    "name": "Oconee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "221",
+    "name": "Oglethorpe County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "223",
+    "name": "Paulding County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "225",
+    "name": "Peach County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "227",
+    "name": "Pickens County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "229",
+    "name": "Pierce County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "231",
+    "name": "Pike County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "233",
+    "name": "Polk County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "235",
+    "name": "Pulaski County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "237",
+    "name": "Putnam County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "239",
+    "name": "Quitman County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "241",
+    "name": "Rabun County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "243",
+    "name": "Randolph County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "245",
+    "name": "Richmond County",
+    "fips_class": "H6"
+  },
+  {
+    "fips_code": "247",
+    "name": "Rockdale County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "249",
+    "name": "Schley County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "251",
+    "name": "Screven County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "253",
+    "name": "Seminole County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "255",
+    "name": "Spalding County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "257",
+    "name": "Stephens County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "259",
+    "name": "Stewart County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "261",
+    "name": "Sumter County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "263",
+    "name": "Talbot County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "265",
+    "name": "Taliaferro County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "267",
+    "name": "Tattnall County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "269",
+    "name": "Taylor County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "271",
+    "name": "Telfair County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "273",
+    "name": "Terrell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "275",
+    "name": "Thomas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "277",
+    "name": "Tift County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "279",
+    "name": "Toombs County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "281",
+    "name": "Towns County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "283",
+    "name": "Treutlen County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "285",
+    "name": "Troup County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "287",
+    "name": "Turner County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "289",
+    "name": "Twiggs County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "291",
+    "name": "Union County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "293",
+    "name": "Upson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "295",
+    "name": "Walker County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "297",
+    "name": "Walton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "299",
+    "name": "Ware County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "301",
+    "name": "Warren County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "303",
+    "name": "Washington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "305",
+    "name": "Wayne County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "307",
+    "name": "Webster County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "309",
+    "name": "Wheeler County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "311",
+    "name": "White County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "313",
+    "name": "Whitfield County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "315",
+    "name": "Wilcox County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "317",
+    "name": "Wilkes County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "319",
+    "name": "Wilkinson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "321",
+    "name": "Worth County",
+    "fips_class": "H1"
+  }
+]

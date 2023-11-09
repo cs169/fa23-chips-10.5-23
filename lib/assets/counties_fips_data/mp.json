@@ -1,0 +1,22 @@
+[
+  {
+    "fips_code": "085",
+    "name": "Northern Islands Municipality",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "100",
+    "name": "Rota Municipality",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "110",
+    "name": "Saipan Municipality",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "120",
+    "name": "Tinian Municipality",
+    "fips_class": "H1"
+  }
+]

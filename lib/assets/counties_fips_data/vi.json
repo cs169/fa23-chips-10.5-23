@@ -1,0 +1,17 @@
+[
+  {
+    "fips_code": "010",
+    "name": "St. Croix Island",
+    "fips_class": "H4"
+  },
+  {
+    "fips_code": "020",
+    "name": "St. John Island",
+    "fips_class": "H4"
+  },
+  {
+    "fips_code": "030",
+    "name": "St. Thomas Island",
+    "fips_class": "H4"
+  }
+]

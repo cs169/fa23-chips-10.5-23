@@ -1,0 +1,107 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Atlantic County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Bergen County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Burlington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Camden County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Cape May County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Cumberland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Essex County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Gloucester County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Hudson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Hunterdon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Mercer County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Middlesex County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Monmouth County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Morris County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Ocean County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Passaic County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Salem County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Somerset County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Sussex County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Union County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Warren County",
+    "fips_class": "H1"
+  }
+]

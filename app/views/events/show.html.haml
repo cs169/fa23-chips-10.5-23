@@ -1,0 +1,43 @@
+.row.mt-2
+    .col-12.col-md-6.offset-md-3.col-xl-4.offset-xl-4
+        %h3.text-center Event Details
+        .card-body
+            .card-text
+                %dl.row
+                    %dt.col-sm-3.text-md-right Name:
+                    %dt.col-sm-9
+                        = @event.name
+                %dl.row
+                    %dt.col-sm-3.text-md-right Description:
+                    %dt.col-sm-9
+                        = @event.description
+                %dl.row
+                    %dt.col-sm-3.text-md-right Location:
+                    %dt.col-sm-9
+                        "#{@event.county.name}, #{@event.state.symbol}"
+                %dl.row
+                    %dt.col-sm-3.text-md-right Start Time:
+                    %dt.col-sm-9
+                        %time.timeago{ datetime: @event.start_time.iso8601 }
+                %dl.row
+                    %dt.col-sm-3.text-md-right End Time:
+                    %dt.col-sm-9
+                        %time.timeago{ datetime: @event.end_time.iso8601 }
+                %dl.row
+                    %dt.col-sm-3.text-md-right Time Added:
+                    %dt.col-sm-9
+                        %time.timeago{ datetime: @event.created_at.iso8601 }
+                %dl.row
+                    %dt.col-sm-3.text-md-right Last Updated:
+                    %dt.col-sm-9
+                        %time.timeago{ datetime: @event.updated_at.iso8601 }
+    .col-12.col-md-6.offset-md-3.col-xl-4.offset-xl-4
+        .clearfix
+            .float-right
+                = link_to edit_my_event_path(@event), class: 'mx-1 btn btn-primary' do
+                    %i.fas.fa-pencil
+                    Edit
+
+                = link_to events_path, class: 'mx-1 btn btn-info' do
+                    %i.fas.fa-list
+                    View all articles

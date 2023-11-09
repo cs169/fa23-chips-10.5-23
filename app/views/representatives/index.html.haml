@@ -1,0 +1,15 @@
+.row.mt-2
+    .col-12.col-md-6.offset-md-3.col-xl-4.offset-xl-4
+        %h1.text-center Search for a Representative
+
+    .col-12.col-md-6.offset-md-3.col-xl-4.offset-xl-4
+        = form_tag search_representatives_path, method: :get do
+            .form-group.row
+                .col-md-4
+                    %label.col-form-label
+                        Enter a location:
+                .col-md-6
+                    = text_field_tag(:address, nil, class: 'form-control')
+
+            .actions
+                = submit_tag 'Search', class: 'btn btn-primary'

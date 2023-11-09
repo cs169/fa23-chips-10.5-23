@@ -1,0 +1,1 @@
+../../scaffolding/content/Checkpoint-3-Spec-b9c9.md

@@ -1,0 +1,1 @@
+../../scaffolding/content/Checkpoint-1-Spec-1a05.md

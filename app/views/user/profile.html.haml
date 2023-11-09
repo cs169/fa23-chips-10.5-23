@@ -1,0 +1,31 @@
+.row.mt-2
+    .col-12.col-md-6.offset-md-3.col-xl-4.offset-xl-4
+        %h3.text-center Your Profile
+        .card-body
+            .card-text
+                %dl.row
+                    %dt.col-sm-3.text-md-right Name:
+                    %dt.col-sm-9
+                        = @user.name
+                %dl.row
+                    %dt.col-sm-3.text-md-right Authentication Provider:
+                    %dt.col-sm-9
+                        = @user.auth_provider
+                %dl.row
+                    %dt.col-sm-3.text-md-right Email:
+                    %dt.col-sm-9
+                        = @user.email
+                %dl.row
+                    %dt.col-sm-3.text-md-right Created:
+                    %dt.col-sm-9
+                        %time.timeago{ datetime: @user.created_at.iso8601 }
+                %dl.row
+                    %dt.col-sm-3.text-md-right Last Updated:
+                    %dt.col-sm-9
+                        %time.timeago{ datetime: @user.updated_at.iso8601 }
+    .col-12.col-md-6.offset-md-3.col-xl-4.offset-xl-4
+        .clearfix
+            .float-right
+                = link_to logout_path, class: 'mx-1 btn btn-info' do
+                    %i.fas.fa-sign-out-alt
+                    Logout

@@ -1,0 +1,20 @@
+.container-fluid
+    .row
+        .col-md-8.offset-md-2
+            .table-responsive-md.pt-5
+                %table.table.table-striped.table-hover#events
+                    %caption Table of Representatives
+                    %thead.thead-dark
+                        %tr
+                            %th Name
+                            %th Office
+                            %th Links
+                    %tbody
+                        - @representatives.each_with_index do |rep, _index|
+                            %tr
+                                %td= rep.name
+                                %td= rep.title
+                                %td
+                                    = link_to representative_news_items_path(rep.id), class: 'btn btn-primary' do
+                                        %i.fas.fa-newspaper
+                                        News Articles

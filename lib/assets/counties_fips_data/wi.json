@@ -1,0 +1,362 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Adams County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Ashland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Barron County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Bayfield County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Brown County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Buffalo County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Burnett County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Calumet County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Chippewa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Clark County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Columbia County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Crawford County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Dane County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Dodge County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Door County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Douglas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Dunn County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Eau Claire County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Florence County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Fond Du Lac County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Forest County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Grant County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Green County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Green Lake County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Iowa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Iron County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Jackson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Jefferson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Juneau County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Kenosha County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Kewaunee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "La Crosse County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Lafayette County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Langlade County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Lincoln County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Manitowoc County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "Marathon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "Marinette County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "077",
+    "name": "Marquette County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "078",
+    "name": "Menominee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "079",
+    "name": "Milwaukee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "081",
+    "name": "Monroe County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "083",
+    "name": "Oconto County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "085",
+    "name": "Oneida County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "087",
+    "name": "Outagamie County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "089",
+    "name": "Ozaukee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "091",
+    "name": "Pepin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "093",
+    "name": "Pierce County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "095",
+    "name": "Polk County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "097",
+    "name": "Portage County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "099",
+    "name": "Price County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "101",
+    "name": "Racine County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "103",
+    "name": "Richland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "105",
+    "name": "Rock County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "107",
+    "name": "Rusk County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "109",
+    "name": "St. Croix County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "111",
+    "name": "Sauk County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "113",
+    "name": "Sawyer County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "115",
+    "name": "Shawano County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "117",
+    "name": "Sheboygan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "119",
+    "name": "Taylor County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "121",
+    "name": "Trempealeau County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "123",
+    "name": "Vernon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "125",
+    "name": "Vilas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "127",
+    "name": "Walworth County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "129",
+    "name": "Washburn County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "131",
+    "name": "Washington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "133",
+    "name": "Waukesha County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "135",
+    "name": "Waupaca County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "137",
+    "name": "Waushara County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "139",
+    "name": "Winnebago County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "141",
+    "name": "Wood County",
+    "fips_class": "H1"
+  }
+]

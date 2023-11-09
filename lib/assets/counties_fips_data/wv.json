@@ -1,0 +1,277 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Barbour County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Berkeley County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Boone County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Braxton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Brooke County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Cabell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Calhoun County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Clay County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Doddridge County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Fayette County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Gilmer County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Grant County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Greenbrier County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Hampshire County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Hancock County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Hardy County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Harrison County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Jackson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Jefferson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Kanawha County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Lewis County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Lincoln County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Logan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Mc Dowell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Marion County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Marshall County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Mason County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Mercer County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Mineral County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Mingo County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Monongalia County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "Monroe County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Morgan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Nicholas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Ohio County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Pendleton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "Pleasants County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "Pocahontas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "077",
+    "name": "Preston County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "079",
+    "name": "Putnam County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "081",
+    "name": "Raleigh County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "083",
+    "name": "Randolph County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "085",
+    "name": "Ritchie County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "087",
+    "name": "Roane County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "089",
+    "name": "Summers County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "091",
+    "name": "Taylor County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "093",
+    "name": "Tucker County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "095",
+    "name": "Tyler County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "097",
+    "name": "Upshur County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "099",
+    "name": "Wayne County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "101",
+    "name": "Webster County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "103",
+    "name": "Wetzel County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "105",
+    "name": "Wirt County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "107",
+    "name": "Wood County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "109",
+    "name": "Wyoming County",
+    "fips_class": "H1"
+  }
+]

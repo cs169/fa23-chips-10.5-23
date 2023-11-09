@@ -1,0 +1,467 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Adams County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Antelope County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Arthur County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Banner County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Blaine County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Boone County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Box Butte County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Boyd County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Brown County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Buffalo County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Burt County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Butler County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Cass County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Cedar County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Chase County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Cherry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Cheyenne County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Clay County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Colfax County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Cuming County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Custer County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Dakota County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Dawes County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Dawson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Deuel County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Dixon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Dodge County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Douglas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Dundy County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Fillmore County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Franklin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "Frontier County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Furnas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Gage County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Garden County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Garfield County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "Gosper County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "Grant County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "077",
+    "name": "Greeley County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "079",
+    "name": "Hall County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "081",
+    "name": "Hamilton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "083",
+    "name": "Harlan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "085",
+    "name": "Hayes County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "087",
+    "name": "Hitchcock County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "089",
+    "name": "Holt County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "091",
+    "name": "Hooker County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "093",
+    "name": "Howard County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "095",
+    "name": "Jefferson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "097",
+    "name": "Johnson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "099",
+    "name": "Kearney County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "101",
+    "name": "Keith County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "103",
+    "name": "Keya Paha County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "105",
+    "name": "Kimball County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "107",
+    "name": "Knox County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "109",
+    "name": "Lancaster County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "111",
+    "name": "Lincoln County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "113",
+    "name": "Logan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "115",
+    "name": "Loup County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "117",
+    "name": "Mc Pherson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "119",
+    "name": "Madison County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "121",
+    "name": "Merrick County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "123",
+    "name": "Morrill County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "125",
+    "name": "Nance County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "127",
+    "name": "Nemaha County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "129",
+    "name": "Nuckolls County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "131",
+    "name": "Otoe County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "133",
+    "name": "Pawnee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "135",
+    "name": "Perkins County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "137",
+    "name": "Phelps County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "139",
+    "name": "Pierce County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "141",
+    "name": "Platte County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "143",
+    "name": "Polk County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "145",
+    "name": "Red Willow County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "147",
+    "name": "Richardson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "149",
+    "name": "Rock County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "151",
+    "name": "Saline County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "153",
+    "name": "Sarpy County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "155",
+    "name": "Saunders County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "157",
+    "name": "Scotts Bluff County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "159",
+    "name": "Seward County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "161",
+    "name": "Sheridan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "163",
+    "name": "Sherman County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "165",
+    "name": "Sioux County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "167",
+    "name": "Stanton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "169",
+    "name": "Thayer County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "171",
+    "name": "Thomas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "173",
+    "name": "Thurston County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "175",
+    "name": "Valley County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "177",
+    "name": "Washington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "179",
+    "name": "Wayne County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "181",
+    "name": "Webster County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "183",
+    "name": "Wheeler County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "185",
+    "name": "York County",
+    "fips_class": "H1"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Kent County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "New Castle County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Sussex County",
+    "fips_class": "H1"
+  }
+]

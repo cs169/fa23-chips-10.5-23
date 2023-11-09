@@ -1,0 +1,497 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Adair County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Adams County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Allamakee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Appanoose County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Audubon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Benton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Black Hawk County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Boone County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Bremer County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Buchanan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Buena Vista County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Butler County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Calhoun County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Carroll County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Cass County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Cedar County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Cerro Gordo County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Cherokee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Chickasaw County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Clarke County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Clay County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Clayton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Clinton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Crawford County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Dallas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Davis County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Decatur County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Delaware County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Des Moines County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Dickinson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Dubuque County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "Emmet County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Fayette County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Floyd County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Franklin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Fremont County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "Greene County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "Grundy County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "077",
+    "name": "Guthrie County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "079",
+    "name": "Hamilton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "081",
+    "name": "Hancock County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "083",
+    "name": "Hardin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "085",
+    "name": "Harrison County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "087",
+    "name": "Henry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "089",
+    "name": "Howard County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "091",
+    "name": "Humboldt County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "093",
+    "name": "Ida County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "095",
+    "name": "Iowa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "097",
+    "name": "Jackson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "099",
+    "name": "Jasper County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "101",
+    "name": "Jefferson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "103",
+    "name": "Johnson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "105",
+    "name": "Jones County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "107",
+    "name": "Keokuk County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "109",
+    "name": "Kossuth County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "111",
+    "name": "Lee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "113",
+    "name": "Linn County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "115",
+    "name": "Louisa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "117",
+    "name": "Lucas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "119",
+    "name": "Lyon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "121",
+    "name": "Madison County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "123",
+    "name": "Mahaska County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "125",
+    "name": "Marion County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "127",
+    "name": "Marshall County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "129",
+    "name": "Mills County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "131",
+    "name": "Mitchell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "133",
+    "name": "Monona County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "135",
+    "name": "Monroe County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "137",
+    "name": "Montgomery County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "139",
+    "name": "Muscatine County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "141",
+    "name": "O'brien County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "143",
+    "name": "Osceola County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "145",
+    "name": "Page County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "147",
+    "name": "Palo Alto County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "149",
+    "name": "Plymouth County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "151",
+    "name": "Pocahontas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "153",
+    "name": "Polk County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "155",
+    "name": "Pottawattamie County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "157",
+    "name": "Poweshiek County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "159",
+    "name": "Ringgold County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "161",
+    "name": "Sac County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "163",
+    "name": "Scott County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "165",
+    "name": "Shelby County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "167",
+    "name": "Sioux County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "169",
+    "name": "Story County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "171",
+    "name": "Tama County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "173",
+    "name": "Taylor County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "175",
+    "name": "Union County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "177",
+    "name": "Van Buren County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "179",
+    "name": "Wapello County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "181",
+    "name": "Warren County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "183",
+    "name": "Washington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "185",
+    "name": "Wayne County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "187",
+    "name": "Webster County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "189",
+    "name": "Winnebago County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "191",
+    "name": "Winneshiek County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "193",
+    "name": "Woodbury County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "195",
+    "name": "Worth County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "197",
+    "name": "Wright County",
+    "fips_class": "H1"
+  }
+]

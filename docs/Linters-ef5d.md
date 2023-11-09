@@ -1,0 +1,1 @@
+../../scaffolding/content/Linters-ef5d.md

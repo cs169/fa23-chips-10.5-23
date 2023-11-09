@@ -1,0 +1,282 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Beaverhead County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Big Horn County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Blaine County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Broadwater County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Carbon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Carter County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Cascade County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Chouteau County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Custer County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Daniels County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Dawson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Deer Lodge County",
+    "fips_class": "H6"
+  },
+  {
+    "fips_code": "025",
+    "name": "Fallon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Fergus County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Flathead County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Gallatin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Garfield County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Glacier County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Golden Valley County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Granite County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Hill County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Jefferson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Judith Basin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Lake County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Lewis And Clark County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Liberty County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Lincoln County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Mc Cone County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Madison County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Meagher County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Mineral County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "Missoula County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Musselshell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Park County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Petroleum County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Phillips County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "Pondera County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "Powder River County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "077",
+    "name": "Powell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "079",
+    "name": "Prairie County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "081",
+    "name": "Ravalli County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "083",
+    "name": "Richland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "085",
+    "name": "Roosevelt County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "087",
+    "name": "Rosebud County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "089",
+    "name": "Sanders County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "091",
+    "name": "Sheridan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "093",
+    "name": "Silver Bow County",
+    "fips_class": "H6"
+  },
+  {
+    "fips_code": "095",
+    "name": "Stillwater County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "097",
+    "name": "Sweet Grass County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "099",
+    "name": "Teton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "101",
+    "name": "Toole County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "103",
+    "name": "Treasure County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "105",
+    "name": "Valley County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "107",
+    "name": "Wheatland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "109",
+    "name": "Wibaux County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "111",
+    "name": "Yellowstone County",
+    "fips_class": "H1"
+  }
+]

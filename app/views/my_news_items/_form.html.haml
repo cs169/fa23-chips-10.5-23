@@ -1,0 +1,32 @@
+= form_for news_item, url: form_url, html: { method: form_method } do |f|
+    - if news_item.errors.any?
+        .alert.alert-danger
+            %h2
+                "#{pluralize(news_item.errors.count, 'error')} prohibited this news from being saved:"
+            %ul
+                - news_item.errors.full_messages.each do |message|
+                    %li= message
+    .form-group.row
+        .col-sm-2
+            = label :news_item, :title, 'Title:', class: 'col-form-label'
+        .col-sm-10
+            = text_field :news_item, :title, { class: 'form-control', placeholder: 'Brief title of article...' }
+    .form-group.row
+        .col-sm-2
+            = label :news_item, :link, 'Link', class: 'col-form-label'
+        .col-sm-10
+            = text_field :news_item, :link, { class: 'form-control', placeholder: 'Link to external article...' }
+    .form-group.row
+        .col-sm-2
+            = label :news_item, :description, class: 'col-form-label'
+        .col-sm-10
+            = text_area :news_item, :description, { class: 'form-control',
+            placeholder: 'Describe the contents of the article...' }
+    .form-group.row
+        .col-sm-2
+            = label :news_item, :representative_id, class: 'col-form-label'
+        .col-sm-10
+            = select :news_item, :representative_id, representatives_list, { include_blank: true },
+            class: 'form-control'
+    .actions
+        = f.submit 'Save', class: 'btn btn-primary'

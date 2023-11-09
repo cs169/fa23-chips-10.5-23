@@ -1,0 +1,267 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Adams County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Barnes County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Benson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Billings County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Bottineau County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Bowman County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Burke County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Burleigh County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Cass County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Cavalier County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Dickey County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Divide County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Dunn County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Eddy County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Emmons County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Foster County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Golden Valley County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Grand Forks County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Grant County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Griggs County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Hettinger County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Kidder County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "La Moure County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Logan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Mc Henry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Mc Intosh County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Mc Kenzie County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Mc Lean County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Mercer County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Morton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Mountrail County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "Nelson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Oliver County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Pembina County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Pierce County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Ramsey County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "Ransom County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "Renville County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "077",
+    "name": "Richland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "079",
+    "name": "Rolette County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "081",
+    "name": "Sargent County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "083",
+    "name": "Sheridan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "085",
+    "name": "Sioux County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "087",
+    "name": "Slope County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "089",
+    "name": "Stark County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "091",
+    "name": "Steele County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "093",
+    "name": "Stutsman County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "095",
+    "name": "Towner County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "097",
+    "name": "Traill County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "099",
+    "name": "Walsh County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "101",
+    "name": "Ward County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "103",
+    "name": "Wells County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "105",
+    "name": "Williams County",
+    "fips_class": "H1"
+  }
+]

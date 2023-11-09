@@ -1,0 +1,137 @@
+# This file defines all the linter rules for the project.
+# See the list of the rules which are called "cops"
+# https://docs.rubocop.org/rubocop/cops.html
+# https://docs.rubocop.org/rubocop-rails/cops_rails.html
+
+# These configurations are *largely* the rubocop defaults.
+# We've relaxed some configurations that may be harder to meet while
+# you are learning.
+
+# rubocop allows us to go simply beyond code formatting and also focus on
+# best practices, like code complexity.
+
+require:
+    - rubocop-rails
+    - rubocop-rspec
+
+AllCops:
+    NewCops: enable
+    TargetRubyVersion: 2.6
+    Exclude:
+        - bin/*
+        - config/routes.rb
+        - db/schema.rb
+        - db/seed_data.rb
+        - db/seeds.rb
+        - features/step_definitions/web_steps.rb
+        - features/support/paths.rb
+        - features/support/selectors.rb
+        - Guardfile
+        - lib/tasks/cucumber.rake
+        - node_modules/**/*
+        - vendor/**/*
+
+Layout/EndOfLine:
+    EnforcedStyle: lf
+
+Lint/AmbiguousRegexpLiteral:
+    Exclude:
+        - features/step_definitions/*
+
+Style/CommentAnnotation:
+    Keywords:
+        - CS169
+        - ACTION-MAP
+        - TODO
+        - HACK
+        - REVIEW
+
+Rails:
+    Enabled: true
+
+Gemspec/RequiredRubyVersion:
+    Enabled: true
+
+Layout/EmptyLineAfterGuardClause:
+    Enabled: true
+
+# No space makes the method definition shorter and differentiates
+# from a regular assignment.
+Layout/SpaceAroundEqualsInParameterDefault:
+    EnforcedStyle: no_space
+
+# Most readable form.
+Layout/HashAlignment:
+    EnforcedHashRocketStyle: table
+    EnforcedColonStyle: table
+
+Layout/LineLength:
+    Max: 120
+
+Lint/RaiseException:
+    Enabled: true
+
+Lint/StructNewOverride:
+    Enabled: true
+
+# https://docs.rubocop.org/rubocop/cops_metrics.html#metricsabcsize
+Metrics/AbcSize:
+    Max: 30
+    Enabled: true
+
+Metrics/BlockLength:
+    IgnoredMethods:
+        - describe
+        - context
+        - shared_examples
+        - namespace
+        - ActiveRecord::Schema.define
+
+# Skips style of child classes and modules.
+Style/ClassAndModuleChildren:
+    Enabled: false
+
+Style/CollectionMethods:
+    Enabled: true
+    PreferredMethods:
+        reduce: "inject"
+
+Style/Documentation:
+    Enabled: false
+
+Style/HashEachMethods:
+    Enabled: true
+    AutoCorrect: false # Unsafe autocorrect
+
+Style/HashTransformKeys:
+    Enabled: true
+    AutoCorrect: false # Unsafe autocorrect
+
+Style/HashTransformValues:
+    Enabled: true
+    AutoCorrect: false # Unsafe autocorrect
+
+# Mixing the styles looks just silly.
+Style/HashSyntax:
+    EnforcedStyle: ruby19_no_mixed_keys
+
+# has_key? and has_value? are far more readable than key? and value?
+Style/PreferredHashMethods:
+    EnforcedStyle: verbose
+
+Metrics/MethodLength:
+    Max: 20
+
+RSpec/InstanceVariable:
+    Enabled: false
+
+RSpec/DescribeClass:
+    Exclude:
+        - spec/linters/*
+
+# Ideally, you'd want no more than 2.
+RSpec/MultipleExpectations:
+    Max: 4
+
+RSpec/RepeatedExample:
+    Enabled: false

@@ -1,0 +1,337 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Adams County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Allegheny County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Armstrong County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Beaver County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Bedford County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Berks County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Blair County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Bradford County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Bucks County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Butler County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Cambria County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Cameron County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Carbon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Centre County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Chester County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Clarion County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Clearfield County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Clinton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Columbia County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Crawford County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Cumberland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Dauphin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Delaware County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Elk County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Erie County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Fayette County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Forest County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Franklin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Fulton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Greene County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Huntingdon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "Indiana County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Jefferson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Juniata County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Lackawanna County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Lancaster County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "Lawrence County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "Lebanon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "077",
+    "name": "Lehigh County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "079",
+    "name": "Luzerne County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "081",
+    "name": "Lycoming County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "083",
+    "name": "Mc Kean County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "085",
+    "name": "Mercer County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "087",
+    "name": "Mifflin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "089",
+    "name": "Monroe County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "091",
+    "name": "Montgomery County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "093",
+    "name": "Montour County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "095",
+    "name": "Northampton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "097",
+    "name": "Northumberland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "099",
+    "name": "Perry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "101",
+    "name": "Philadelphia County",
+    "fips_class": "H6"
+  },
+  {
+    "fips_code": "103",
+    "name": "Pike County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "105",
+    "name": "Potter County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "107",
+    "name": "Schuylkill County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "109",
+    "name": "Snyder County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "111",
+    "name": "Somerset County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "113",
+    "name": "Sullivan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "115",
+    "name": "Susquehanna County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "117",
+    "name": "Tioga County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "119",
+    "name": "Union County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "121",
+    "name": "Venango County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "123",
+    "name": "Warren County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "125",
+    "name": "Washington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "127",
+    "name": "Wayne County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "129",
+    "name": "Westmoreland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "131",
+    "name": "Wyoming County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "133",
+    "name": "York County",
+    "fips_class": "H1"
+  }
+]

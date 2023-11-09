@@ -1,0 +1,437 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Aitkin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Anoka County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Becker County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Beltrami County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Benton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Big Stone County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Blue Earth County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Brown County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Carlton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Carver County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Cass County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Chippewa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Chisago County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Clay County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Clearwater County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Cook County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Cottonwood County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Crow Wing County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Dakota County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Dodge County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Douglas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Faribault County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Fillmore County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Freeborn County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Goodhue County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Grant County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Hennepin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Houston County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Hubbard County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Isanti County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Itasca County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "Jackson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Kanabec County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Kandiyohi County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Kittson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Koochiching County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "Lac Qui Parle County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "Lake County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "077",
+    "name": "Lake Of The Woods County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "079",
+    "name": "Le Sueur County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "081",
+    "name": "Lincoln County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "083",
+    "name": "Lyon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "085",
+    "name": "Mc Leod County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "087",
+    "name": "Mahnomen County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "089",
+    "name": "Marshall County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "091",
+    "name": "Martin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "093",
+    "name": "Meeker County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "095",
+    "name": "Mille Lacs County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "097",
+    "name": "Morrison County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "099",
+    "name": "Mower County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "101",
+    "name": "Murray County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "103",
+    "name": "Nicollet County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "105",
+    "name": "Nobles County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "107",
+    "name": "Norman County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "109",
+    "name": "Olmsted County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "111",
+    "name": "Otter Tail County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "113",
+    "name": "Pennington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "115",
+    "name": "Pine County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "117",
+    "name": "Pipestone County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "119",
+    "name": "Polk County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "121",
+    "name": "Pope County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "123",
+    "name": "Ramsey County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "125",
+    "name": "Red Lake County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "127",
+    "name": "Redwood County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "129",
+    "name": "Renville County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "131",
+    "name": "Rice County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "133",
+    "name": "Rock County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "135",
+    "name": "Roseau County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "137",
+    "name": "St. Louis County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "139",
+    "name": "Scott County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "141",
+    "name": "Sherburne County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "143",
+    "name": "Sibley County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "145",
+    "name": "Stearns County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "147",
+    "name": "Steele County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "149",
+    "name": "Stevens County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "151",
+    "name": "Swift County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "153",
+    "name": "Todd County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "155",
+    "name": "Traverse County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "157",
+    "name": "Wabasha County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "159",
+    "name": "Wadena County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "161",
+    "name": "Waseca County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "163",
+    "name": "Washington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "165",
+    "name": "Watonwan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "167",
+    "name": "Wilkin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "169",
+    "name": "Winona County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "171",
+    "name": "Wright County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "173",
+    "name": "Yellow Medicine County",
+    "fips_class": "H1"
+  }
+]

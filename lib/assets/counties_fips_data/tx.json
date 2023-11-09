@@ -1,0 +1,1272 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Anderson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Andrews County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Angelina County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Aransas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Archer County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Armstrong County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Atascosa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Austin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Bailey County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Bandera County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Bastrop County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Baylor County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Bee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Bell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Bexar County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Blanco County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Borden County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Bosque County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Bowie County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Brazoria County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Brazos County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Brewster County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Briscoe County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Brooks County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Brown County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Burleson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Burnet County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Caldwell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Calhoun County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Callahan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Cameron County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "Camp County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Carson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Cass County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Castro County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Chambers County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "Cherokee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "Childress County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "077",
+    "name": "Clay County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "079",
+    "name": "Cochran County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "081",
+    "name": "Coke County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "083",
+    "name": "Coleman County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "085",
+    "name": "Collin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "087",
+    "name": "Collingsworth County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "089",
+    "name": "Colorado County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "091",
+    "name": "Comal County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "093",
+    "name": "Comanche County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "095",
+    "name": "Concho County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "097",
+    "name": "Cooke County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "099",
+    "name": "Coryell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "101",
+    "name": "Cottle County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "103",
+    "name": "Crane County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "105",
+    "name": "Crockett County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "107",
+    "name": "Crosby County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "109",
+    "name": "Culberson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "111",
+    "name": "Dallam County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "113",
+    "name": "Dallas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "115",
+    "name": "Dawson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "117",
+    "name": "Deaf Smith County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "119",
+    "name": "Delta County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "121",
+    "name": "Denton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "123",
+    "name": "De Witt County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "125",
+    "name": "Dickens County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "127",
+    "name": "Dimmit County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "129",
+    "name": "Donley County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "131",
+    "name": "Duval County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "133",
+    "name": "Eastland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "135",
+    "name": "Ector County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "137",
+    "name": "Edwards County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "139",
+    "name": "Ellis County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "141",
+    "name": "El Paso County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "143",
+    "name": "Erath County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "145",
+    "name": "Falls County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "147",
+    "name": "Fannin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "149",
+    "name": "Fayette County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "151",
+    "name": "Fisher County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "153",
+    "name": "Floyd County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "155",
+    "name": "Foard County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "157",
+    "name": "Fort Bend County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "159",
+    "name": "Franklin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "161",
+    "name": "Freestone County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "163",
+    "name": "Frio County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "165",
+    "name": "Gaines County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "167",
+    "name": "Galveston County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "169",
+    "name": "Garza County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "171",
+    "name": "Gillespie County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "173",
+    "name": "Glasscock County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "175",
+    "name": "Goliad County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "177",
+    "name": "Gonzales County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "179",
+    "name": "Gray County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "181",
+    "name": "Grayson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "183",
+    "name": "Gregg County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "185",
+    "name": "Grimes County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "187",
+    "name": "Guadalupe County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "189",
+    "name": "Hale County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "191",
+    "name": "Hall County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "193",
+    "name": "Hamilton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "195",
+    "name": "Hansford County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "197",
+    "name": "Hardeman County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "199",
+    "name": "Hardin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "201",
+    "name": "Harris County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "203",
+    "name": "Harrison County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "205",
+    "name": "Hartley County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "207",
+    "name": "Haskell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "209",
+    "name": "Hays County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "211",
+    "name": "Hemphill County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "213",
+    "name": "Henderson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "215",
+    "name": "Hidalgo County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "217",
+    "name": "Hill County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "219",
+    "name": "Hockley County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "221",
+    "name": "Hood County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "223",
+    "name": "Hopkins County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "225",
+    "name": "Houston County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "227",
+    "name": "Howard County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "229",
+    "name": "Hudspeth County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "231",
+    "name": "Hunt County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "233",
+    "name": "Hutchinson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "235",
+    "name": "Irion County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "237",
+    "name": "Jack County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "239",
+    "name": "Jackson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "241",
+    "name": "Jasper County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "243",
+    "name": "Jeff Davis County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "245",
+    "name": "Jefferson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "247",
+    "name": "Jim Hogg County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "249",
+    "name": "Jim Wells County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "251",
+    "name": "Johnson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "253",
+    "name": "Jones County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "255",
+    "name": "Karnes County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "257",
+    "name": "Kaufman County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "259",
+    "name": "Kendall County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "261",
+    "name": "Kenedy County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "263",
+    "name": "Kent County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "265",
+    "name": "Kerr County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "267",
+    "name": "Kimble County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "269",
+    "name": "King County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "271",
+    "name": "Kinney County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "273",
+    "name": "Kleberg County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "275",
+    "name": "Knox County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "277",
+    "name": "Lamar County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "279",
+    "name": "Lamb County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "281",
+    "name": "Lampasas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "283",
+    "name": "La Salle County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "285",
+    "name": "Lavaca County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "287",
+    "name": "Lee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "289",
+    "name": "Leon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "291",
+    "name": "Liberty County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "293",
+    "name": "Limestone County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "295",
+    "name": "Lipscomb County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "297",
+    "name": "Live Oak County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "299",
+    "name": "Llano County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "301",
+    "name": "Loving County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "303",
+    "name": "Lubbock County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "305",
+    "name": "Lynn County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "307",
+    "name": "Mc Culloch County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "309",
+    "name": "Mc Lennan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "311",
+    "name": "Mc Mullen County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "313",
+    "name": "Madison County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "315",
+    "name": "Marion County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "317",
+    "name": "Martin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "319",
+    "name": "Mason County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "321",
+    "name": "Matagorda County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "323",
+    "name": "Maverick County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "325",
+    "name": "Medina County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "327",
+    "name": "Menard County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "329",
+    "name": "Midland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "331",
+    "name": "Milam County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "333",
+    "name": "Mills County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "335",
+    "name": "Mitchell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "337",
+    "name": "Montague County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "339",
+    "name": "Montgomery County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "341",
+    "name": "Moore County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "343",
+    "name": "Morris County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "345",
+    "name": "Motley County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "347",
+    "name": "Nacogdoches County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "349",
+    "name": "Navarro County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "351",
+    "name": "Newton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "353",
+    "name": "Nolan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "355",
+    "name": "Nueces County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "357",
+    "name": "Ochiltree County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "359",
+    "name": "Oldham County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "361",
+    "name": "Orange County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "363",
+    "name": "Palo Pinto County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "365",
+    "name": "Panola County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "367",
+    "name": "Parker County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "369",
+    "name": "Parmer County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "371",
+    "name": "Pecos County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "373",
+    "name": "Polk County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "375",
+    "name": "Potter County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "377",
+    "name": "Presidio County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "379",
+    "name": "Rains County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "381",
+    "name": "Randall County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "383",
+    "name": "Reagan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "385",
+    "name": "Real County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "387",
+    "name": "Red River County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "389",
+    "name": "Reeves County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "391",
+    "name": "Refugio County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "393",
+    "name": "Roberts County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "395",
+    "name": "Robertson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "397",
+    "name": "Rockwall County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "399",
+    "name": "Runnels County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "401",
+    "name": "Rusk County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "403",
+    "name": "Sabine County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "405",
+    "name": "San Augustine County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "407",
+    "name": "San Jacinto County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "409",
+    "name": "San Patricio County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "411",
+    "name": "San Saba County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "413",
+    "name": "Schleicher County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "415",
+    "name": "Scurry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "417",
+    "name": "Shackelford County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "419",
+    "name": "Shelby County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "421",
+    "name": "Sherman County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "423",
+    "name": "Smith County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "425",
+    "name": "Somervell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "427",
+    "name": "Starr County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "429",
+    "name": "Stephens County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "431",
+    "name": "Sterling County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "433",
+    "name": "Stonewall County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "435",
+    "name": "Sutton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "437",
+    "name": "Swisher County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "439",
+    "name": "Tarrant County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "441",
+    "name": "Taylor County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "443",
+    "name": "Terrell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "445",
+    "name": "Terry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "447",
+    "name": "Throckmorton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "449",
+    "name": "Titus County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "451",
+    "name": "Tom Green County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "453",
+    "name": "Travis County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "455",
+    "name": "Trinity County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "457",
+    "name": "Tyler County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "459",
+    "name": "Upshur County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "461",
+    "name": "Upton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "463",
+    "name": "Uvalde County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "465",
+    "name": "Val Verde County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "467",
+    "name": "Van Zandt County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "469",
+    "name": "Victoria County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "471",
+    "name": "Walker County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "473",
+    "name": "Waller County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "475",
+    "name": "Ward County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "477",
+    "name": "Washington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "479",
+    "name": "Webb County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "481",
+    "name": "Wharton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "483",
+    "name": "Wheeler County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "485",
+    "name": "Wichita County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "487",
+    "name": "Wilbarger County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "489",
+    "name": "Willacy County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "491",
+    "name": "Williamson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "493",
+    "name": "Wilson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "495",
+    "name": "Winkler County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "497",
+    "name": "Wise County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "499",
+    "name": "Wood County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "501",
+    "name": "Yoakum County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "503",
+    "name": "Young County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "505",
+    "name": "Zapata County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "507",
+    "name": "Zavala County",
+    "fips_class": "H1"
+  }
+]

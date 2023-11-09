@@ -1,0 +1,197 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Adams County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Asotin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Benton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Chelan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Clallam County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Clark County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Columbia County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Cowlitz County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Douglas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Ferry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Franklin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Garfield County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Grant County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Grays Harbor County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Island County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Jefferson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "King County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Kitsap County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Kittitas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Klickitat County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Lewis County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Lincoln County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Mason County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Okanogan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Pacific County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Pend Oreille County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Pierce County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "San Juan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Skagit County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Skamania County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Snohomish County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "Spokane County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Stevens County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Thurston County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Wahkiakum County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Walla Walla County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "Whatcom County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "Whitman County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "077",
+    "name": "Yakima County",
+    "fips_class": "H1"
+  }
+]

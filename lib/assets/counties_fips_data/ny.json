@@ -1,0 +1,312 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Albany County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Allegany County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Bronx County",
+    "fips_class": "H6"
+  },
+  {
+    "fips_code": "007",
+    "name": "Broome County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Cattaraugus County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Cayuga County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Chautauqua County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Chemung County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Chenango County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Clinton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Columbia County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Cortland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Delaware County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Dutchess County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Erie County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Essex County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Franklin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Fulton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Genesee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Greene County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Hamilton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Herkimer County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Jefferson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Kings County",
+    "fips_class": "H6"
+  },
+  {
+    "fips_code": "049",
+    "name": "Lewis County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Livingston County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Madison County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Monroe County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Montgomery County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Nassau County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "New York County",
+    "fips_class": "H6"
+  },
+  {
+    "fips_code": "063",
+    "name": "Niagara County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Oneida County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Onondaga County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Ontario County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Orange County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "Orleans County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "Oswego County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "077",
+    "name": "Otsego County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "079",
+    "name": "Putnam County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "081",
+    "name": "Queens County",
+    "fips_class": "H6"
+  },
+  {
+    "fips_code": "083",
+    "name": "Rensselaer County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "085",
+    "name": "Richmond County",
+    "fips_class": "H6"
+  },
+  {
+    "fips_code": "087",
+    "name": "Rockland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "089",
+    "name": "St. Lawrence County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "091",
+    "name": "Saratoga County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "093",
+    "name": "Schenectady County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "095",
+    "name": "Schoharie County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "097",
+    "name": "Schuyler County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "099",
+    "name": "Seneca County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "101",
+    "name": "Steuben County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "103",
+    "name": "Suffolk County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "105",
+    "name": "Sullivan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "107",
+    "name": "Tioga County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "109",
+    "name": "Tompkins County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "111",
+    "name": "Ulster County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "113",
+    "name": "Warren County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "115",
+    "name": "Washington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "117",
+    "name": "Wayne County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "119",
+    "name": "Westchester County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "121",
+    "name": "Wyoming County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "123",
+    "name": "Yates County",
+    "fips_class": "H1"
+  }
+]

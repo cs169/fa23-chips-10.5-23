@@ -1,0 +1,377 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Arkansas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Ashley County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Baxter County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Benton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Boone County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Bradley County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Calhoun County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Carroll County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Chicot County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Clark County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Clay County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Cleburne County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Cleveland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Columbia County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Conway County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Craighead County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Crawford County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Crittenden County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Cross County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Dallas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Desha County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Drew County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Faulkner County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Franklin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Fulton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Garland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Grant County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Greene County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Hempstead County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Hot Spring County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Howard County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "Independence County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Izard County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Jackson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Jefferson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Johnson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "Lafayette County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "Lawrence County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "077",
+    "name": "Lee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "079",
+    "name": "Lincoln County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "081",
+    "name": "Little River County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "083",
+    "name": "Logan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "085",
+    "name": "Lonoke County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "087",
+    "name": "Madison County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "089",
+    "name": "Marion County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "091",
+    "name": "Miller County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "093",
+    "name": "Mississippi County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "095",
+    "name": "Monroe County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "097",
+    "name": "Montgomery County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "099",
+    "name": "Nevada County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "101",
+    "name": "Newton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "103",
+    "name": "Ouachita County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "105",
+    "name": "Perry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "107",
+    "name": "Phillips County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "109",
+    "name": "Pike County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "111",
+    "name": "Poinsett County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "113",
+    "name": "Polk County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "115",
+    "name": "Pope County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "117",
+    "name": "Prairie County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "119",
+    "name": "Pulaski County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "121",
+    "name": "Randolph County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "123",
+    "name": "St. Francis County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "125",
+    "name": "Saline County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "127",
+    "name": "Scott County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "129",
+    "name": "Searcy County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "131",
+    "name": "Sebastian County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "133",
+    "name": "Sevier County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "135",
+    "name": "Sharp County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "137",
+    "name": "Stone County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "139",
+    "name": "Union County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "141",
+    "name": "Van Buren County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "143",
+    "name": "Washington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "145",
+    "name": "White County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "147",
+    "name": "Woodruff County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "149",
+    "name": "Yell County",
+    "fips_class": "H1"
+  }
+]

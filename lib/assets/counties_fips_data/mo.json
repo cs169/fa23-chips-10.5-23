@@ -1,0 +1,577 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Adair County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Andrew County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Atchison County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Audrain County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Barry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Barton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Bates County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Benton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Bollinger County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Boone County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Buchanan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Butler County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Caldwell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Callaway County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Camden County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Cape Girardeau County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Carroll County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Carter County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Cass County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Cedar County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Chariton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Christian County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Clark County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Clay County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Clinton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Cole County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Cooper County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Crawford County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Dade County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Dallas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Daviess County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "De Kalb County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Dent County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Douglas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Dunklin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Franklin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "Gasconade County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "Gentry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "077",
+    "name": "Greene County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "079",
+    "name": "Grundy County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "081",
+    "name": "Harrison County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "083",
+    "name": "Henry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "085",
+    "name": "Hickory County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "087",
+    "name": "Holt County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "089",
+    "name": "Howard County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "091",
+    "name": "Howell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "093",
+    "name": "Iron County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "095",
+    "name": "Jackson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "097",
+    "name": "Jasper County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "099",
+    "name": "Jefferson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "101",
+    "name": "Johnson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "103",
+    "name": "Knox County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "105",
+    "name": "Laclede County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "107",
+    "name": "Lafayette County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "109",
+    "name": "Lawrence County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "111",
+    "name": "Lewis County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "113",
+    "name": "Lincoln County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "115",
+    "name": "Linn County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "117",
+    "name": "Livingston County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "119",
+    "name": "Mc Donald County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "121",
+    "name": "Macon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "123",
+    "name": "Madison County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "125",
+    "name": "Maries County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "127",
+    "name": "Marion County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "129",
+    "name": "Mercer County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "131",
+    "name": "Miller County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "133",
+    "name": "Mississippi County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "135",
+    "name": "Moniteau County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "137",
+    "name": "Monroe County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "139",
+    "name": "Montgomery County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "141",
+    "name": "Morgan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "143",
+    "name": "New Madrid County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "145",
+    "name": "Newton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "147",
+    "name": "Nodaway County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "149",
+    "name": "Oregon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "151",
+    "name": "Osage County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "153",
+    "name": "Ozark County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "155",
+    "name": "Pemiscot County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "157",
+    "name": "Perry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "159",
+    "name": "Pettis County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "161",
+    "name": "Phelps County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "163",
+    "name": "Pike County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "165",
+    "name": "Platte County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "167",
+    "name": "Polk County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "169",
+    "name": "Pulaski County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "171",
+    "name": "Putnam County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "173",
+    "name": "Ralls County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "175",
+    "name": "Randolph County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "177",
+    "name": "Ray County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "179",
+    "name": "Reynolds County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "181",
+    "name": "Ripley County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "183",
+    "name": "St. Charles County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "185",
+    "name": "St. Clair County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "186",
+    "name": "Ste. Genevieve County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "187",
+    "name": "St. Francois County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "189",
+    "name": "St. Louis County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "195",
+    "name": "Saline County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "197",
+    "name": "Schuyler County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "199",
+    "name": "Scotland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "201",
+    "name": "Scott County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "203",
+    "name": "Shannon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "205",
+    "name": "Shelby County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "207",
+    "name": "Stoddard County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "209",
+    "name": "Stone County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "211",
+    "name": "Sullivan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "213",
+    "name": "Taney County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "215",
+    "name": "Texas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "217",
+    "name": "Vernon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "219",
+    "name": "Warren County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "221",
+    "name": "Washington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "223",
+    "name": "Wayne County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "225",
+    "name": "Webster County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "227",
+    "name": "Worth County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "229",
+    "name": "Wright County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "510",
+    "name": "St. Louis City",
+    "fips_class": "C7"
+  }
+]

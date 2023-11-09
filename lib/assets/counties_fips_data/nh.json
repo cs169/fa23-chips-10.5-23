@@ -1,0 +1,52 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Belknap County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Carroll County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Cheshire County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Coos County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Grafton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Hillsborough County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Merrimack County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Rockingham County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Strafford County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Sullivan County",
+    "fips_class": "H1"
+  }
+]

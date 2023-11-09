@@ -1,0 +1,122 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Allegany County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Anne Arundel County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Baltimore County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Calvert County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Caroline County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Carroll County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Cecil County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Charles County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Dorchester County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Frederick County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Garrett County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Harford County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Howard County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Kent County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Montgomery County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Prince George's County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Queen Anne's County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "St. Mary's County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Somerset County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Talbot County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Washington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Wicomico County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Worcester County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "510",
+    "name": "Baltimore City",
+    "fips_class": "C7"
+  }
+]

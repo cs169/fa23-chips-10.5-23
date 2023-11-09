@@ -1,0 +1,42 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Fairfield County",
+    "fips_class": "H4"
+  },
+  {
+    "fips_code": "003",
+    "name": "Hartford County",
+    "fips_class": "H4"
+  },
+  {
+    "fips_code": "005",
+    "name": "Litchfield County",
+    "fips_class": "H4"
+  },
+  {
+    "fips_code": "007",
+    "name": "Middlesex County",
+    "fips_class": "H4"
+  },
+  {
+    "fips_code": "009",
+    "name": "New Haven County",
+    "fips_class": "H4"
+  },
+  {
+    "fips_code": "011",
+    "name": "New London County",
+    "fips_class": "H4"
+  },
+  {
+    "fips_code": "013",
+    "name": "Tolland County",
+    "fips_class": "H4"
+  },
+  {
+    "fips_code": "015",
+    "name": "Windham County",
+    "fips_class": "H4"
+  }
+]

@@ -1,0 +1,43 @@
+%section.my-4
+    %h2.text-center
+        = @state.name
+    .overflow-hidden.bg-light.text-center.mb-3
+        .overflow-auto.py-3
+            %svg.d-inline#actionmap-state-counties-view{ version: 1.1, xmlns: 'http://www.w3.org/2000/svg' }
+                %title  Map of #{@state.name}
+                /* SVG element will be filled using d3.js and a topojson file. */
+.row
+    .col-12.col-lg-8.offset-lg-2
+        #actionmap-state-counties-details
+            .card
+                .card-header#actionmap-counties-details-header
+                    %h3.text-center
+                        %button.btn.btn-link.collapsed{ 'data-toggle': 'collapse',
+                        'data-target': '#actionmap-state-details-collapse', 'aria-expanded': false,
+                        'aria-controls': 'actionmap-state-details-collapse' } Counties in #{@state.name}
+                .collapse#actionmap-state-details-collapse{ 'data-parent': '#actionmap-counties-details-header',
+                'aria-labelledby': '#actionmap-counties-details-header' }
+                    .card-body
+                        .table-responsive-md
+                            %table.table.table-striped.table-hover#actionmap-state-counties-table
+                                %caption Table of Counties in #{@state.name}
+                                %thead.thead-dark
+                                    %tr
+                                        %th #
+                                        %th Name
+                                        %th FIPS Code
+                                        %th View
+                                %tbody
+                                    - @state.counties.each_with_index do |county, index|
+                                        %tr
+                                            %td= index + 1
+                                            %td= county.name
+                                            %td= county.std_fips_code
+                                            %td
+                                                = link_to 'View', county_path(state_symbol: @state.symbol,
+                                                std_fips_code: county.std_fips_code),
+                                                class: 'btn btn-primary'
+#actionmap-info-box
+#actionmap-info-container{ 'data-counties': @county_details.to_json, 'data-state': @state.to_json,
+'data-state-topojson-file': asset_path("states/#{@state[:symbol].downcase}.topo.json") }
+= javascript_pack_tag 'state_map', 'data-turbolinks-track': 'reload'

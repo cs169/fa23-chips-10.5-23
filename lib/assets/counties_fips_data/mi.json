@@ -1,0 +1,417 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Alcona County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Alger County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Allegan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Alpena County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Antrim County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Arenac County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Baraga County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Barry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Bay County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Benzie County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Berrien County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Branch County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Calhoun County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Cass County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Charlevoix County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Cheboygan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Chippewa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Clare County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Clinton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Crawford County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Delta County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Dickinson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Eaton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Emmet County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Genesee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Gladwin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Gogebic County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Grand Traverse County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Gratiot County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Hillsdale County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Houghton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "Huron County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Ingham County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Ionia County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Iosco County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Iron County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "Isabella County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "Jackson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "077",
+    "name": "Kalamazoo County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "079",
+    "name": "Kalkaska County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "081",
+    "name": "Kent County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "083",
+    "name": "Keweenaw County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "085",
+    "name": "Lake County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "087",
+    "name": "Lapeer County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "089",
+    "name": "Leelanau County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "091",
+    "name": "Lenawee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "093",
+    "name": "Livingston County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "095",
+    "name": "Luce County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "097",
+    "name": "Mackinac County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "099",
+    "name": "Macomb County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "101",
+    "name": "Manistee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "103",
+    "name": "Marquette County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "105",
+    "name": "Mason County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "107",
+    "name": "Mecosta County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "109",
+    "name": "Menominee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "111",
+    "name": "Midland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "113",
+    "name": "Missaukee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "115",
+    "name": "Monroe County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "117",
+    "name": "Montcalm County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "119",
+    "name": "Montmorency County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "121",
+    "name": "Muskegon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "123",
+    "name": "Newaygo County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "125",
+    "name": "Oakland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "127",
+    "name": "Oceana County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "129",
+    "name": "Ogemaw County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "131",
+    "name": "Ontonagon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "133",
+    "name": "Osceola County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "135",
+    "name": "Oscoda County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "137",
+    "name": "Otsego County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "139",
+    "name": "Ottawa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "141",
+    "name": "Presque Isle County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "143",
+    "name": "Roscommon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "145",
+    "name": "Saginaw County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "147",
+    "name": "St. Clair County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "149",
+    "name": "St. Joseph County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "151",
+    "name": "Sanilac County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "153",
+    "name": "Schoolcraft County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "155",
+    "name": "Shiawassee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "157",
+    "name": "Tuscola County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "159",
+    "name": "Van Buren County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "161",
+    "name": "Washtenaw County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "163",
+    "name": "Wayne County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "165",
+    "name": "Wexford County",
+    "fips_class": "H1"
+  }
+]

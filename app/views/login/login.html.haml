@@ -1,0 +1,15 @@
+.row
+    .col-sm-9.col-md-7.col-lg-5.mx-auto
+        .card.card-signin.my-5
+            .card-body
+                %span.d-block.display-4.card-title.text-center Sign In
+                .alert.alert-primary.text-center{ role: :alert }
+                    Select an authentication provider below to login.
+                = form_tag '/auth/google_oauth2', method: :post do
+                    %button.btn.btn-lg.btn-google.btn-block.text-uppercase.bg-danger.text-white{ type: :submit }
+                        %i.fab.fa-google.mr-2
+                        Sign in with Google
+                = form_tag '/auth/github', method: :post do
+                    %button.btn.btn-lg.btn-google.btn-block.text-uppercase.bg-primary.text-white{ type: :submit }
+                        %i.fab.fa-github.mr-2
+                        Sign in with GitHub

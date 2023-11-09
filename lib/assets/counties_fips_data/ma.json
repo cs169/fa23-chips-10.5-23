@@ -1,0 +1,72 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Barnstable County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Berkshire County",
+    "fips_class": "H4"
+  },
+  {
+    "fips_code": "005",
+    "name": "Bristol County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Dukes County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Essex County",
+    "fips_class": "H4"
+  },
+  {
+    "fips_code": "011",
+    "name": "Franklin County",
+    "fips_class": "H4"
+  },
+  {
+    "fips_code": "013",
+    "name": "Hampden County",
+    "fips_class": "H4"
+  },
+  {
+    "fips_code": "015",
+    "name": "Hampshire County",
+    "fips_class": "H4"
+  },
+  {
+    "fips_code": "017",
+    "name": "Middlesex County",
+    "fips_class": "H4"
+  },
+  {
+    "fips_code": "019",
+    "name": "Nantucket County",
+    "fips_class": "H4"
+  },
+  {
+    "fips_code": "021",
+    "name": "Norfolk County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Plymouth County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Suffolk County",
+    "fips_class": "H4"
+  },
+  {
+    "fips_code": "027",
+    "name": "Worcester County",
+    "fips_class": "H4"
+  }
+]

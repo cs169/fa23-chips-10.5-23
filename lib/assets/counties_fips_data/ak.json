@@ -1,0 +1,147 @@
+[
+  {
+    "fips_code": "013",
+    "name": "Aleutians East Borough",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "016",
+    "name": "Aleutians West Census Area",
+    "fips_class": "H5"
+  },
+  {
+    "fips_code": "020",
+    "name": "Anchorage Municipality",
+    "fips_class": "H6"
+  },
+  {
+    "fips_code": "050",
+    "name": "Bethel Census Area",
+    "fips_class": "H5"
+  },
+  {
+    "fips_code": "060",
+    "name": "Bristol Bay Borough",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "068",
+    "name": "Denali Borough",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "070",
+    "name": "Dillingham Census Area",
+    "fips_class": "H5"
+  },
+  {
+    "fips_code": "090",
+    "name": "Fairbanks North Star Borough",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "100",
+    "name": "Haines Borough",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "105",
+    "name": "Hoonah Angoon Census Area",
+    "fips_class": "H5"
+  },
+  {
+    "fips_code": "110",
+    "name": "Juneau City And Borough",
+    "fips_class": "H6"
+  },
+  {
+    "fips_code": "122",
+    "name": "Kenai Peninsula Borough",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "130",
+    "name": "Ketchikan Gateway Borough",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "150",
+    "name": "Kodiak Island Borough",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "164",
+    "name": "Lake And Peninsula Borough",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "170",
+    "name": "Matanuska Susitna Borough",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "180",
+    "name": "Nome Census Area",
+    "fips_class": "H5"
+  },
+  {
+    "fips_code": "185",
+    "name": "North Slope Borough",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "188",
+    "name": "Northwest Arctic Borough",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "195",
+    "name": "Petersburg Census Area",
+    "fips_class": "H5"
+  },
+  {
+    "fips_code": "198",
+    "name": "Prince Of Wales Hyder Census Area",
+    "fips_class": "H5"
+  },
+  {
+    "fips_code": "220",
+    "name": "Sitka City And Borough",
+    "fips_class": "H6"
+  },
+  {
+    "fips_code": "230",
+    "name": "Skagway Municipality",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "240",
+    "name": "Southeast Fairbanks Census Area",
+    "fips_class": "H5"
+  },
+  {
+    "fips_code": "261",
+    "name": "Valdez Cordova Census Area",
+    "fips_class": "H5"
+  },
+  {
+    "fips_code": "158",
+    "name": "Kusilvak Census Area",
+    "fips_class": "H5"
+  },
+  {
+    "fips_code": "275",
+    "name": "Wrangell City And Borough",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "282",
+    "name": "Yakutat City And Borough",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "290",
+    "name": "Yukon Koyukuk Census Area",
+    "fips_class": "H5"
+  }
+]

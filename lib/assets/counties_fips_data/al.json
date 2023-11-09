@@ -1,0 +1,337 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Autauga County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Baldwin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Barbour County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Bibb County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Blount County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Bullock County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Butler County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Calhoun County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Chambers County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Cherokee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Chilton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Choctaw County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Clarke County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Clay County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Cleburne County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Coffee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Colbert County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Conecuh County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Coosa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Covington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Crenshaw County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Cullman County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Dale County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Dallas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "De Kalb County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Elmore County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Escambia County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Etowah County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Fayette County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Franklin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Geneva County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "Greene County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Hale County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Henry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Houston County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Jackson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "Jefferson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "Lamar County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "077",
+    "name": "Lauderdale County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "079",
+    "name": "Lawrence County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "081",
+    "name": "Lee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "083",
+    "name": "Limestone County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "085",
+    "name": "Lowndes County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "087",
+    "name": "Macon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "089",
+    "name": "Madison County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "091",
+    "name": "Marengo County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "093",
+    "name": "Marion County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "095",
+    "name": "Marshall County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "097",
+    "name": "Mobile County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "099",
+    "name": "Monroe County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "101",
+    "name": "Montgomery County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "103",
+    "name": "Morgan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "105",
+    "name": "Perry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "107",
+    "name": "Pickens County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "109",
+    "name": "Pike County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "111",
+    "name": "Randolph County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "113",
+    "name": "Russell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "115",
+    "name": "St. Clair County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "117",
+    "name": "Shelby County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "119",
+    "name": "Sumter County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "121",
+    "name": "Talladega County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "123",
+    "name": "Tallapoosa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "125",
+    "name": "Tuscaloosa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "127",
+    "name": "Walker County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "129",
+    "name": "Washington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "131",
+    "name": "Wilcox County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "133",
+    "name": "Winston County",
+    "fips_class": "H1"
+  }
+]

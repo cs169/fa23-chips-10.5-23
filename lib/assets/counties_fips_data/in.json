@@ -1,0 +1,462 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Adams County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Allen County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Bartholomew County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Benton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Blackford County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Boone County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Brown County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Carroll County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Cass County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Clark County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Clay County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Clinton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Crawford County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Daviess County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Dearborn County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Decatur County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "De Kalb County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Delaware County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Dubois County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Elkhart County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Fayette County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Floyd County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Fountain County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Franklin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Fulton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Gibson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Grant County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Greene County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Hamilton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Hancock County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Harrison County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "Hendricks County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Henry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Howard County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Huntington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Jackson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "Jasper County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "Jay County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "077",
+    "name": "Jefferson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "079",
+    "name": "Jennings County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "081",
+    "name": "Johnson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "083",
+    "name": "Knox County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "085",
+    "name": "Kosciusko County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "087",
+    "name": "La Grange County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "089",
+    "name": "Lake County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "091",
+    "name": "La Porte County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "093",
+    "name": "Lawrence County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "095",
+    "name": "Madison County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "097",
+    "name": "Marion County",
+    "fips_class": "H6"
+  },
+  {
+    "fips_code": "099",
+    "name": "Marshall County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "101",
+    "name": "Martin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "103",
+    "name": "Miami County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "105",
+    "name": "Monroe County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "107",
+    "name": "Montgomery County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "109",
+    "name": "Morgan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "111",
+    "name": "Newton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "113",
+    "name": "Noble County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "115",
+    "name": "Ohio County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "117",
+    "name": "Orange County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "119",
+    "name": "Owen County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "121",
+    "name": "Parke County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "123",
+    "name": "Perry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "125",
+    "name": "Pike County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "127",
+    "name": "Porter County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "129",
+    "name": "Posey County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "131",
+    "name": "Pulaski County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "133",
+    "name": "Putnam County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "135",
+    "name": "Randolph County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "137",
+    "name": "Ripley County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "139",
+    "name": "Rush County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "141",
+    "name": "St. Joseph County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "143",
+    "name": "Scott County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "145",
+    "name": "Shelby County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "147",
+    "name": "Spencer County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "149",
+    "name": "Starke County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "151",
+    "name": "Steuben County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "153",
+    "name": "Sullivan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "155",
+    "name": "Switzerland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "157",
+    "name": "Tippecanoe County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "159",
+    "name": "Tipton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "161",
+    "name": "Union County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "163",
+    "name": "Vanderburgh County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "165",
+    "name": "Vermillion County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "167",
+    "name": "Vigo County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "169",
+    "name": "Wabash County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "171",
+    "name": "Warren County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "173",
+    "name": "Warrick County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "175",
+    "name": "Washington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "177",
+    "name": "Wayne County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "179",
+    "name": "Wells County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "181",
+    "name": "White County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "183",
+    "name": "Whitley County",
+    "fips_class": "H1"
+  }
+]

@@ -1,0 +1,39 @@
+.row.mt-2
+    .col-12.col-md-6.offset-md-3.col-xl-4.offset-xl-4
+        %h3.text-center= @news_item.title
+        .card-body
+            .card-text
+                %dl.row
+                    %dt.col-sm-3.text-md-right Link:
+                    %dt.col-sm-9
+                        %a{ href: @news_item.link }
+                            = @news_item.link
+                %dl.row
+                    %dt.col-sm-3.text-md-right Description:
+                    %dt.col-sm-9
+                        = @news_item.description
+                %dl.row
+                    %dt.col-sm-3.text-md-right Representative:
+                    %dt.col-sm-9
+                        %a{ href: representative_path(@representative) }
+                            = @news_item.representative.name
+                %dl.row
+                    %dt.col-sm-3.text-md-right Time Added:
+                    %dt.col-sm-9
+                        %time.timeago{ datetime: @news_item.created_at.iso8601 }
+                %dl.row
+                    %dt.col-sm-3.text-md-right Last Updated:
+                    %dt.col-sm-9
+                        %time.timeago{ datetime: @news_item.updated_at.iso8601 }
+    .col-12.col-md-6.offset-md-3.col-xl-4.offset-xl-4
+        .clearfix
+            .float-right
+                = link_to representative_edit_my_news_item_path(@representative, @news_item),
+                 class: 'mx-1 btn btn-primary' do
+                    %i.fas.fa-pencil
+                    Edit
+
+                = link_to representative_news_items_path(@representative),
+                 class: 'mx-1 btn btn-info' do
+                    %i.fas.fa-list
+                    View all articles

@@ -1,0 +1,512 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Adams County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Alexander County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Bond County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Boone County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Brown County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Bureau County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Calhoun County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Carroll County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Cass County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Champaign County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Christian County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Clark County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Clay County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Clinton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Coles County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Cook County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Crawford County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Cumberland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "De Kalb County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "De Witt County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Douglas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Du Page County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Edgar County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Edwards County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Effingham County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Fayette County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Ford County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Franklin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Fulton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Gallatin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Greene County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "Grundy County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Hamilton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Hancock County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Hardin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Henderson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "Henry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "Iroquois County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "077",
+    "name": "Jackson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "079",
+    "name": "Jasper County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "081",
+    "name": "Jefferson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "083",
+    "name": "Jersey County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "085",
+    "name": "Jo Daviess County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "087",
+    "name": "Johnson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "089",
+    "name": "Kane County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "091",
+    "name": "Kankakee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "093",
+    "name": "Kendall County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "095",
+    "name": "Knox County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "097",
+    "name": "Lake County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "099",
+    "name": "La Salle County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "101",
+    "name": "Lawrence County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "103",
+    "name": "Lee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "105",
+    "name": "Livingston County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "107",
+    "name": "Logan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "109",
+    "name": "Mc Donough County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "111",
+    "name": "Mc Henry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "113",
+    "name": "Mc Lean County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "115",
+    "name": "Macon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "117",
+    "name": "Macoupin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "119",
+    "name": "Madison County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "121",
+    "name": "Marion County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "123",
+    "name": "Marshall County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "125",
+    "name": "Mason County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "127",
+    "name": "Massac County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "129",
+    "name": "Menard County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "131",
+    "name": "Mercer County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "133",
+    "name": "Monroe County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "135",
+    "name": "Montgomery County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "137",
+    "name": "Morgan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "139",
+    "name": "Moultrie County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "141",
+    "name": "Ogle County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "143",
+    "name": "Peoria County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "145",
+    "name": "Perry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "147",
+    "name": "Piatt County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "149",
+    "name": "Pike County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "151",
+    "name": "Pope County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "153",
+    "name": "Pulaski County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "155",
+    "name": "Putnam County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "157",
+    "name": "Randolph County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "159",
+    "name": "Richland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "161",
+    "name": "Rock Island County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "163",
+    "name": "St. Clair County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "165",
+    "name": "Saline County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "167",
+    "name": "Sangamon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "169",
+    "name": "Schuyler County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "171",
+    "name": "Scott County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "173",
+    "name": "Shelby County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "175",
+    "name": "Stark County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "177",
+    "name": "Stephenson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "179",
+    "name": "Tazewell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "181",
+    "name": "Union County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "183",
+    "name": "Vermilion County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "185",
+    "name": "Wabash County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "187",
+    "name": "Warren County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "189",
+    "name": "Washington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "191",
+    "name": "Wayne County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "193",
+    "name": "White County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "195",
+    "name": "Whiteside County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "197",
+    "name": "Will County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "199",
+    "name": "Williamson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "201",
+    "name": "Winnebago County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "203",
+    "name": "Woodford County",
+    "fips_class": "H1"
+  }
+]

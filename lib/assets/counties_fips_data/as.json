@@ -1,0 +1,27 @@
+[
+  {
+    "fips_code": "010",
+    "name": "Eastern District",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "020",
+    "name": "Manu'a District",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "030",
+    "name": "Rose Island",
+    "fips_class": "H4"
+  },
+  {
+    "fips_code": "040",
+    "name": "Swains Island",
+    "fips_class": "H4"
+  },
+  {
+    "fips_code": "050",
+    "name": "Western District",
+    "fips_class": "H1"
+  }
+]

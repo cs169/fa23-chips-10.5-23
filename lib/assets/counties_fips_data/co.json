@@ -1,0 +1,322 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Adams County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Alamosa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Arapahoe County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Archuleta County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Baca County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Bent County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Boulder County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "014",
+    "name": "Broomfield County",
+    "fips_class": "H6"
+  },
+  {
+    "fips_code": "015",
+    "name": "Chaffee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Cheyenne County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Clear Creek County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Conejos County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Costilla County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Crowley County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Custer County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Delta County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Denver County",
+    "fips_class": "H6"
+  },
+  {
+    "fips_code": "033",
+    "name": "Dolores County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Douglas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Eagle County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Elbert County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "El Paso County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Fremont County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Garfield County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Gilpin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Grand County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Gunnison County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Hinsdale County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Huerfano County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Jackson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Jefferson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Kiowa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "Kit Carson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Lake County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "La Plata County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Larimer County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Las Animas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "Lincoln County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "Logan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "077",
+    "name": "Mesa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "079",
+    "name": "Mineral County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "081",
+    "name": "Moffat County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "083",
+    "name": "Montezuma County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "085",
+    "name": "Montrose County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "087",
+    "name": "Morgan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "089",
+    "name": "Otero County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "091",
+    "name": "Ouray County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "093",
+    "name": "Park County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "095",
+    "name": "Phillips County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "097",
+    "name": "Pitkin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "099",
+    "name": "Prowers County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "101",
+    "name": "Pueblo County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "103",
+    "name": "Rio Blanco County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "105",
+    "name": "Rio Grande County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "107",
+    "name": "Routt County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "109",
+    "name": "Saguache County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "111",
+    "name": "San Juan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "113",
+    "name": "San Miguel County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "115",
+    "name": "Sedgwick County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "117",
+    "name": "Summit County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "119",
+    "name": "Teller County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "121",
+    "name": "Washington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "123",
+    "name": "Weld County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "125",
+    "name": "Yuma County",
+    "fips_class": "H1"
+  }
+]

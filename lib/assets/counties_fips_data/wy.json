@@ -1,0 +1,117 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Albany County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Big Horn County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Campbell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Carbon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Converse County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Crook County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Fremont County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Goshen County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Hot Springs County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Johnson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Laramie County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Lincoln County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Natrona County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Niobrara County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Park County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Platte County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Sheridan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Sublette County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Sweetwater County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Teton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Uinta County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Washakie County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Weston County",
+    "fips_class": "H1"
+  }
+]

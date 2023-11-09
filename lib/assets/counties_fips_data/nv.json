@@ -1,0 +1,87 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Churchill County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Clark County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Douglas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Elko County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Esmeralda County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Eureka County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Humboldt County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Lander County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Lincoln County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Lyon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Mineral County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Nye County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Pershing County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Storey County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Washoe County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "White Pine County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "510",
+    "name": "Carson City",
+    "fips_class": "C7"
+  }
+]

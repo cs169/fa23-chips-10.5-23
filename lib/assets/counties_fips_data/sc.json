@@ -1,0 +1,232 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Abbeville County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Aiken County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Allendale County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Anderson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Bamberg County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Barnwell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Beaufort County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Berkeley County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Calhoun County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Charleston County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Cherokee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Chester County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Chesterfield County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Clarendon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Colleton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Darlington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Dillon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Dorchester County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Edgefield County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Fairfield County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Florence County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Georgetown County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Greenville County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Greenwood County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Hampton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Horry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Jasper County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Kershaw County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Lancaster County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Laurens County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Lee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "Lexington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Mc Cormick County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Marion County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Marlboro County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Newberry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "Oconee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "Orangeburg County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "077",
+    "name": "Pickens County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "079",
+    "name": "Richland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "081",
+    "name": "Saluda County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "083",
+    "name": "Spartanburg County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "085",
+    "name": "Sumter County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "087",
+    "name": "Union County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "089",
+    "name": "Williamsburg County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "091",
+    "name": "York County",
+    "fips_class": "H1"
+  }
+]

@@ -1,0 +1,387 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Adair County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Alfalfa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Atoka County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Beaver County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Beckham County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Blaine County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Bryan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Caddo County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Canadian County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Carter County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Cherokee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Choctaw County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Cimarron County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Cleveland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Coal County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Comanche County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Cotton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Craig County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Creek County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Custer County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Delaware County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Dewey County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Ellis County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Garfield County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Garvin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Grady County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Grant County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Greer County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Harmon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Harper County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Haskell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "Hughes County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Jackson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Jefferson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Johnston County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Kay County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "Kingfisher County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "Kiowa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "077",
+    "name": "Latimer County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "079",
+    "name": "Le Flore County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "081",
+    "name": "Lincoln County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "083",
+    "name": "Logan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "085",
+    "name": "Love County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "087",
+    "name": "Mc Clain County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "089",
+    "name": "Mc Curtain County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "091",
+    "name": "Mc Intosh County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "093",
+    "name": "Major County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "095",
+    "name": "Marshall County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "097",
+    "name": "Mayes County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "099",
+    "name": "Murray County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "101",
+    "name": "Muskogee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "103",
+    "name": "Noble County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "105",
+    "name": "Nowata County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "107",
+    "name": "Okfuskee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "109",
+    "name": "Oklahoma County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "111",
+    "name": "Okmulgee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "113",
+    "name": "Osage County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "115",
+    "name": "Ottawa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "117",
+    "name": "Pawnee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "119",
+    "name": "Payne County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "121",
+    "name": "Pittsburg County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "123",
+    "name": "Pontotoc County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "125",
+    "name": "Pottawatomie County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "127",
+    "name": "Pushmataha County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "129",
+    "name": "Roger Mills County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "131",
+    "name": "Rogers County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "133",
+    "name": "Seminole County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "135",
+    "name": "Sequoyah County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "137",
+    "name": "Stephens County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "139",
+    "name": "Texas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "141",
+    "name": "Tillman County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "143",
+    "name": "Tulsa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "145",
+    "name": "Wagoner County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "147",
+    "name": "Washington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "149",
+    "name": "Washita County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "151",
+    "name": "Woods County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "153",
+    "name": "Woodward County",
+    "fips_class": "H1"
+  }
+]

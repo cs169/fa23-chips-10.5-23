@@ -1,0 +1,1 @@
+../../scaffolding/content/Getting-Started-a6c3.md

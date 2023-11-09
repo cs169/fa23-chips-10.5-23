@@ -1,0 +1,22 @@
+// Hovering over a map region should make the mouse cursor a pointer and highlight the region with blue color.
+path:hover, circle:hover {
+    stroke: #2780E3 !important;
+    stroke-width:2px;
+    stroke-linejoin: round;
+    fill: #2780E3 !important;
+    cursor: pointer;
+}
+
+// Display a div#actionmap-info-box with details when cursor hovers over a region.
+#actionmap-info-box {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    background-color: #ffffff;
+    border: 2px solid #BF0A30;
+    border-radius: 5px;
+    padding: 5px;
+    font-family: arial, serif;
+}

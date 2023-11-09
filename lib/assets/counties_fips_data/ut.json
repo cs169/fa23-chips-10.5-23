@@ -1,0 +1,147 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Beaver County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Box Elder County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Cache County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Carbon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Daggett County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Davis County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Duchesne County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Emery County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Garfield County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Grand County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Iron County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Juab County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Kane County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Millard County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Morgan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Piute County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Rich County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Salt Lake County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "San Juan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Sanpete County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Sevier County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Summit County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Tooele County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Uintah County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Utah County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Wasatch County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Washington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Wayne County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Weber County",
+    "fips_class": "H1"
+  }
+]

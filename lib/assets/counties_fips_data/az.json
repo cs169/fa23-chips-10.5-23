@@ -1,0 +1,77 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Apache County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Cochise County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Coconino County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Gila County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Graham County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Greenlee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "012",
+    "name": "La Paz County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Maricopa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Mohave County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Navajo County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Pima County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Pinal County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Santa Cruz County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Yavapai County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Yuma County",
+    "fips_class": "H1"
+  }
+]

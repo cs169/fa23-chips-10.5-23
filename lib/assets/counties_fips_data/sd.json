@@ -1,0 +1,332 @@
+[
+  {
+    "fips_code": "003",
+    "name": "Aurora County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Beadle County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Bennett County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Bon Homme County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Brookings County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Brown County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Brule County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Buffalo County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Butte County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Campbell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Charles Mix County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Clark County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Clay County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Codington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Corson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Custer County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Davison County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Day County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Deuel County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Dewey County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Douglas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Edmunds County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Fall River County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Faulk County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Grant County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Gregory County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Haakon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Hamlin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Hand County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Hanson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "Harding County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Hughes County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Hutchinson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Hyde County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Jackson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "Jerauld County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "Jones County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "077",
+    "name": "Kingsbury County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "079",
+    "name": "Lake County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "081",
+    "name": "Lawrence County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "083",
+    "name": "Lincoln County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "085",
+    "name": "Lyman County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "087",
+    "name": "Mc Cook County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "089",
+    "name": "Mc Pherson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "091",
+    "name": "Marshall County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "093",
+    "name": "Meade County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "095",
+    "name": "Mellette County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "097",
+    "name": "Miner County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "099",
+    "name": "Minnehaha County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "101",
+    "name": "Moody County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "103",
+    "name": "Pennington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "105",
+    "name": "Perkins County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "107",
+    "name": "Potter County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "109",
+    "name": "Roberts County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "111",
+    "name": "Sanborn County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "102",
+    "name": "Oglala Lakota County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "115",
+    "name": "Spink County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "117",
+    "name": "Stanley County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "119",
+    "name": "Sully County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "121",
+    "name": "Todd County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "123",
+    "name": "Tripp County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "125",
+    "name": "Turner County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "127",
+    "name": "Union County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "129",
+    "name": "Walworth County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "135",
+    "name": "Yankton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "137",
+    "name": "Ziebach County",
+    "fips_class": "H1"
+  }
+]

@@ -1,0 +1,15 @@
+.row
+    .col-12
+        %section.my-4
+            %h2.text-center
+                = `#{@county.name}, #{@state.symbol}`
+            .overflow-hidden.bg-light.text-center.mb-3
+                .overflow-auto.py-3
+                    %svg.d-inline#actionmap-state-counties-view{ version: 1.1, xmlns: 'http://www.w3.org/2000/svg' }
+                        %title  Map of #{@state.name} highlighting #{@county.name}
+                        /* SVG element will be filled using d3.js and a topojson file. */
+#actionmap-info-box
+.d-none#actionmap-info-container{ 'data-counties': @county_details.to_json, 'data-state': @state.to_json,
+'data-state-topojson-file': asset_path("states/#{@state[:symbol].downcase}.topo.json"),
+'county-std-fips-code': @county.std_fips_code }
+= javascript_pack_tag 'county_map', 'data-turbolinks-track': 'reload'

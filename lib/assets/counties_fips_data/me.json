@@ -1,0 +1,82 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Androscoggin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Aroostook County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Cumberland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Franklin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Hancock County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Kennebec County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Knox County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Lincoln County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Oxford County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Penobscot County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Piscataquis County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Sagadahoc County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Somerset County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Waldo County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Washington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "York County",
+    "fips_class": "H1"
+  }
+]

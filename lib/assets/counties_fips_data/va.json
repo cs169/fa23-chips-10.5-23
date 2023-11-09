@@ -1,0 +1,667 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Accomack County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Albemarle County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Alleghany County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Amelia County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Amherst County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Appomattox County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Arlington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Augusta County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Bath County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Bedford County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Bland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Botetourt County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Brunswick County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Buchanan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Buckingham County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Campbell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Caroline County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Carroll County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "036",
+    "name": "Charles City County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Charlotte County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Chesterfield County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Clarke County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Craig County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Culpeper County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Cumberland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Dickenson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Dinwiddie County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Essex County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Fairfax County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Fauquier County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "Floyd County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Fluvanna County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Franklin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Frederick County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Giles County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "Gloucester County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "Goochland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "077",
+    "name": "Grayson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "079",
+    "name": "Greene County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "081",
+    "name": "Greensville County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "083",
+    "name": "Halifax County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "085",
+    "name": "Hanover County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "087",
+    "name": "Henrico County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "089",
+    "name": "Henry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "091",
+    "name": "Highland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "093",
+    "name": "Isle Of Wight County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "095",
+    "name": "James City County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "097",
+    "name": "King And Queen County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "099",
+    "name": "King George County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "101",
+    "name": "King William County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "103",
+    "name": "Lancaster County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "105",
+    "name": "Lee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "107",
+    "name": "Loudoun County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "109",
+    "name": "Louisa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "111",
+    "name": "Lunenburg County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "113",
+    "name": "Madison County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "115",
+    "name": "Mathews County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "117",
+    "name": "Mecklenburg County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "119",
+    "name": "Middlesex County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "121",
+    "name": "Montgomery County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "125",
+    "name": "Nelson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "127",
+    "name": "New Kent County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "131",
+    "name": "Northampton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "133",
+    "name": "Northumberland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "135",
+    "name": "Nottoway County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "137",
+    "name": "Orange County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "139",
+    "name": "Page County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "141",
+    "name": "Patrick County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "143",
+    "name": "Pittsylvania County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "145",
+    "name": "Powhatan County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "147",
+    "name": "Prince Edward County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "149",
+    "name": "Prince George County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "153",
+    "name": "Prince William County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "155",
+    "name": "Pulaski County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "157",
+    "name": "Rappahannock County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "159",
+    "name": "Richmond County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "161",
+    "name": "Roanoke County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "163",
+    "name": "Rockbridge County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "165",
+    "name": "Rockingham County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "167",
+    "name": "Russell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "169",
+    "name": "Scott County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "171",
+    "name": "Shenandoah County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "173",
+    "name": "Smyth County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "175",
+    "name": "Southampton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "177",
+    "name": "Spotsylvania County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "179",
+    "name": "Stafford County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "181",
+    "name": "Surry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "183",
+    "name": "Sussex County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "185",
+    "name": "Tazewell County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "187",
+    "name": "Warren County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "191",
+    "name": "Washington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "193",
+    "name": "Westmoreland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "195",
+    "name": "Wise County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "197",
+    "name": "Wythe County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "199",
+    "name": "York County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "510",
+    "name": "Alexandria City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "520",
+    "name": "Bristol City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "530",
+    "name": "Buena Vista City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "540",
+    "name": "Charlottesville City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "550",
+    "name": "Chesapeake City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "570",
+    "name": "Colonial Heights City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "580",
+    "name": "Covington City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "590",
+    "name": "Danville City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "595",
+    "name": "Emporia City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "600",
+    "name": "Fairfax City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "610",
+    "name": "Falls Church City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "620",
+    "name": "Franklin City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "630",
+    "name": "Fredericksburg City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "640",
+    "name": "Galax City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "650",
+    "name": "Hampton City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "660",
+    "name": "Harrisonburg City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "670",
+    "name": "Hopewell City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "678",
+    "name": "Lexington City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "680",
+    "name": "Lynchburg City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "683",
+    "name": "Manassas City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "685",
+    "name": "Manassas Park City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "690",
+    "name": "Martinsville City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "700",
+    "name": "Newport News City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "710",
+    "name": "Norfolk City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "720",
+    "name": "Norton City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "730",
+    "name": "Petersburg City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "735",
+    "name": "Poquoson City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "740",
+    "name": "Portsmouth City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "750",
+    "name": "Radford City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "760",
+    "name": "Richmond City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "770",
+    "name": "Roanoke City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "775",
+    "name": "Salem City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "790",
+    "name": "Staunton City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "800",
+    "name": "Suffolk City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "810",
+    "name": "Virginia Beach City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "820",
+    "name": "Waynesboro City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "830",
+    "name": "Williamsburg City",
+    "fips_class": "C7"
+  },
+  {
+    "fips_code": "840",
+    "name": "Winchester City",
+    "fips_class": "C7"
+  }
+]

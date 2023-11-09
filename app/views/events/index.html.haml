@@ -1,0 +1,73 @@
+.row
+    .col-12.col-md-10.offset-md-1
+        %h1.text-center Events
+        .clearfix.my-4
+            .float-right
+                .btn-group.btn-primary{ role: :group, 'aria-label': 'Events Links' }
+                    = link_to events_path, class: 'btn btn-primary' do
+                        %i.fas.fa-trash-restore
+                        Reset Filters
+                    = link_to new_my_event_path, class: 'btn btn-primary' do
+                        %i.fas.fa-plus
+                        Add New Event
+        %hr/
+        .clearfix.my-4
+            .float-right
+                = form_tag events_path, method: :get, class: 'form' do
+                    .form-group
+                        .row
+                            %legend.col-form-label.col-sm-12.py-1 Filter By
+                            .col-sm-12
+                                .form-check
+                                    = radio_button_tag 'filter-by', 'state-only', true,
+                                     id: 'actionmap-events-filter-state-radio', class: 'form-check-input'
+                                    %label.form-check-label{ for: 'actionmap-events-filter-state-radio' } State Only
+                                .form-check
+                                    = radio_button_tag 'filter-by', 'county', false,
+                                     id: 'actionmap-events-filter-county-radio', class: 'form-check-input'
+                                    %label.form-check-label{ for: 'actionmap-events-filter-county-radio' } County
+                    .form-group.row
+                        .col-12
+                            = select_tag :state, options_for_select(ApplicationHelper.state_symbols_by_name),
+                              { prompt: 'Select a state', class: 'form-control', id: 'actionmap-events-filter-state' }
+                    .form-group.row
+                        .col-12
+                            = select_tag :county, options_for_select([]),
+                            { prompt: 'Select a county', class: 'form-control', id: 'actionmap-events-filter-county' }
+                    = submit_tag 'Filter by State', name: nil, class: 'btn btn-primary my-2',
+                    id: 'actionmap-events-filter-submit', disabled: true # Enabled by Javascript
+        - if @events.empty?
+            .jumbotron.jumbotron-fluid.text-center
+                %strong
+                    There are no events that match the filters.
+        .table-responsive-md
+            %table.table.table-striped.table-hover#events
+                %caption Table of Events
+                %thead.thead-dark
+                    %tr
+                        %th #
+                        %th Name
+                        %th State
+                        %th County
+                        %th Start Time
+                        %th End Time
+                        %th Description
+                        %th Link
+                %tbody
+                    - @events.each_with_index do |event, index|
+                        %tr
+                            %td= index + 1
+                            %td= event.name
+                            %td= event.state.name
+                            %td= event.county.name
+                            %td
+                                %time.timeago{ datetime: event.start_time.iso8601 }
+                            %td
+                                %time.timeago{ datetime: event.end_time.iso8601 }
+                            %td= event.description
+                            %td
+                                = link_to event_path(event.id), class: 'btn btn-info' do
+                                    %i.fas.fa-eye
+                                    View
+
+= javascript_pack_tag 'events_index', 'data-turbolinks-track': 'reload'

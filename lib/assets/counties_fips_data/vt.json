@@ -1,0 +1,72 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Addison County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Bennington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Caledonia County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Chittenden County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Essex County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Franklin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Grand Isle County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Lamoille County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Orange County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Orleans County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Rutland County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Washington County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Windham County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Windsor County",
+    "fips_class": "H1"
+  }
+]

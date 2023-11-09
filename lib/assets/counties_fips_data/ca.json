@@ -1,0 +1,292 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Alameda County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Alpine County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Amador County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Butte County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Calaveras County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Colusa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Contra Costa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Del Norte County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "El Dorado County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Fresno County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Glenn County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Humboldt County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "025",
+    "name": "Imperial County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "Inyo County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Kern County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Kings County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "033",
+    "name": "Lake County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Lassen County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Los Angeles County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Madera County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Marin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Mariposa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Mendocino County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Merced County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Modoc County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Mono County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Monterey County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Napa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Nevada County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Orange County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Placer County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "Plumas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Riverside County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Sacramento County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "San Benito County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "San Bernardino County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "San Diego County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "San Francisco County",
+    "fips_class": "H6"
+  },
+  {
+    "fips_code": "077",
+    "name": "San Joaquin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "079",
+    "name": "San Luis Obispo County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "081",
+    "name": "San Mateo County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "083",
+    "name": "Santa Barbara County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "085",
+    "name": "Santa Clara County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "087",
+    "name": "Santa Cruz County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "089",
+    "name": "Shasta County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "091",
+    "name": "Sierra County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "093",
+    "name": "Siskiyou County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "095",
+    "name": "Solano County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "097",
+    "name": "Sonoma County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "099",
+    "name": "Stanislaus County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "101",
+    "name": "Sutter County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "103",
+    "name": "Tehama County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "105",
+    "name": "Trinity County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "107",
+    "name": "Tulare County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "109",
+    "name": "Tuolumne County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "111",
+    "name": "Ventura County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "113",
+    "name": "Yolo County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "115",
+    "name": "Yuba County",
+    "fips_class": "H1"
+  }
+]

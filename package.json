@@ -1,0 +1,46 @@
+{
+    "name": "actionmap",
+    "private": "true",
+    "description": "See README.md on project repository",
+    "version": "0.0.1",
+    "main": "babel.config.js",
+    "engines": {
+        "node": "12.x || 14.x || 16.x",
+        "yarn": "1.22.x"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^5.13.0",
+        "@rails/ujs": "^6.0.3-1",
+        "@rails/webpacker": "^5.1.1",
+        "bootstrap": "^4.5.0",
+        "bootswatch": "^4.5.0",
+        "d3": "^5.16.0",
+        "expose-loader": "^0.7.5",
+        "jquery": "^3.5.1",
+        "popper.js": "^1.16.1",
+        "sass": "^1.26.5",
+        "select2": "^4.0.13",
+        "timeago": "^1.6.7",
+        "topojson": "^3.0.2",
+        "turbolinks": "^5.2.0"
+    },
+    "devDependencies": {
+        "eslint": "^6.8.0",
+        "eslint-config-airbnb-base": "^14.1.0",
+        "eslint-plugin-import": "^2.20.2",
+        "mapshaper": "^0.5.10",
+        "webpack-dev-server": "^3.11.0"
+    },
+    "scripts": {
+        "lint": "./node_modules/.bin/eslint \"app/**/*.js\" \"config/**/*.js\"",
+        "lint_fix": "./node_modules/.bin/eslint --fix \"app/**/*.js\" \"config/**/*.js\""
+    },
+    "keywords": [
+        "CS169",
+        "Software",
+        "Engineering",
+        "ESAAS"
+    ],
+    "author": "CS169 Staff",
+    "license": "ISC"
+}

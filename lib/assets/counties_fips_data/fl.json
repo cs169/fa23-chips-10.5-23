@@ -1,0 +1,337 @@
+[
+  {
+    "fips_code": "001",
+    "name": "Alachua County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "003",
+    "name": "Baker County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "005",
+    "name": "Bay County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "007",
+    "name": "Bradford County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "009",
+    "name": "Brevard County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "011",
+    "name": "Broward County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "013",
+    "name": "Calhoun County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "015",
+    "name": "Charlotte County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "017",
+    "name": "Citrus County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "019",
+    "name": "Clay County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "021",
+    "name": "Collier County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "023",
+    "name": "Columbia County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "027",
+    "name": "De Soto County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "029",
+    "name": "Dixie County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "031",
+    "name": "Duval County",
+    "fips_class": "H6"
+  },
+  {
+    "fips_code": "033",
+    "name": "Escambia County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "035",
+    "name": "Flagler County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "037",
+    "name": "Franklin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "039",
+    "name": "Gadsden County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "041",
+    "name": "Gilchrist County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "043",
+    "name": "Glades County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "045",
+    "name": "Gulf County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "047",
+    "name": "Hamilton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "049",
+    "name": "Hardee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "051",
+    "name": "Hendry County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "053",
+    "name": "Hernando County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "055",
+    "name": "Highlands County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "057",
+    "name": "Hillsborough County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "059",
+    "name": "Holmes County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "061",
+    "name": "Indian River County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "063",
+    "name": "Jackson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "065",
+    "name": "Jefferson County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "067",
+    "name": "Lafayette County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "069",
+    "name": "Lake County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "071",
+    "name": "Lee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "073",
+    "name": "Leon County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "075",
+    "name": "Levy County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "077",
+    "name": "Liberty County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "079",
+    "name": "Madison County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "081",
+    "name": "Manatee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "083",
+    "name": "Marion County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "085",
+    "name": "Martin County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "086",
+    "name": "Miami Dade County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "087",
+    "name": "Monroe County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "089",
+    "name": "Nassau County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "091",
+    "name": "Okaloosa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "093",
+    "name": "Okeechobee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "095",
+    "name": "Orange County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "097",
+    "name": "Osceola County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "099",
+    "name": "Palm Beach County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "101",
+    "name": "Pasco County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "103",
+    "name": "Pinellas County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "105",
+    "name": "Polk County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "107",
+    "name": "Putnam County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "109",
+    "name": "St. Johns County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "111",
+    "name": "St. Lucie County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "113",
+    "name": "Santa Rosa County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "115",
+    "name": "Sarasota County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "117",
+    "name": "Seminole County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "119",
+    "name": "Sumter County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "121",
+    "name": "Suwannee County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "123",
+    "name": "Taylor County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "125",
+    "name": "Union County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "127",
+    "name": "Volusia County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "129",
+    "name": "Wakulla County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "131",
+    "name": "Walton County",
+    "fips_class": "H1"
+  },
+  {
+    "fips_code": "133",
+    "name": "Washington County",
+    "fips_class": "H1"
+  }
+]
