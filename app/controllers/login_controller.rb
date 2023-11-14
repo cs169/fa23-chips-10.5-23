@@ -69,7 +69,7 @@ class LoginController < ApplicationController
   end
 
   def already_logged_in
-    redirect_to user_profile_path, notice: 'You are already logged in. Logout to switch accounts.'\
+    redirect_to user_profile_path, notice: 'You are already logged in. Logout to switch accounts.' \
         if session[:current_user_id].present?
   end
 end

@@ -31,7 +31,7 @@ class StateShapefileRequest
   def cmd(output_format)
     output_file = TopojsonTaskHelper.output_file_for(self, output_format)
     program = Rails.root.join TopojsonTaskHelper::MAPSHAPER
-    "#{program} -i #{Rails.root.join(@shp_filename)} -simplify 10% keep-shapes -dissolve COUNTYFP" \
-      " -o format=#{output_format} #{output_file}"
+    "#{program} -i #{Rails.root.join(@shp_filename)} -simplify 10% keep-shapes -dissolve COUNTYFP " \
+      "-o format=#{output_format} #{output_file}"
   end
 end

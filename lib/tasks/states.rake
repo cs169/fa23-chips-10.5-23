@@ -39,11 +39,11 @@ namespace :states do
       fips_data = StateFipsTaskHelper.fetch_fips_data_for_state(
         state
       )
-      fips_data = updates[state[:symbol].to_sym].call(fips_data)\
+      fips_data = updates[state[:symbol].to_sym].call(fips_data) \
           if updates.has_key?(state[:symbol].to_sym)
       fips_data_filename = "#{StateFipsTaskHelper::FIPS_DIR}/#{state[:symbol].downcase}.json"
-      Rails.logger.info "Writing FIPS data for #{state[:name]} to "\
-                        " #{Rails.root.join(fips_data_filename)}"
+      Rails.logger.info "Writing FIPS data for #{state[:name]} to  " \
+                        "#{Rails.root.join(fips_data_filename)}"
       TaskHelper.write_json(
         fips_data_filename,
         fips_data
