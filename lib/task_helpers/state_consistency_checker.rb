@@ -36,8 +36,8 @@ class StateConsistencyChecker
   end
 
   def self.log_check(state, geojson, county_by_fips_code)
-    Rails.logger.info "#{state[:symbol]} has #{geojson['features'].length} geojson entries"\
-                      " and #{county_by_fips_code.length} FIPS entries."
+    Rails.logger.info "#{state[:symbol]} has #{geojson['features'].length} geojson entries " \
+                      "and #{county_by_fips_code.length} FIPS entries."
     raise ArgumentError, 'Geojson and FIPS dataset counties mismatch' \
         if geojson['features'].length != county_by_fips_code.length
   end
