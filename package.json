@@ -5,8 +5,8 @@
     "version": "0.0.1",
     "main": "babel.config.js",
     "engines": {
-        "node": "12.x || 14.x || 16.x",
-        "yarn": "1.22.x"
+        "node": "13.x",
+        "yarn": "1.19.x"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "^5.13.0",
