@@ -6,7 +6,7 @@
     "main": "babel.config.js",
     "engines": {
         "node": "13.x",
-        "yarn": "1.22.x"
+        "yarn": "1.19.x"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "^5.13.0",
