@@ -67,6 +67,8 @@ package-lock.json
 /public/assets
 
 # Ignore yarn files
+.yarn
+.yarnrc
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
