@@ -1,0 +1,24 @@
+project:
+  name: 'CS169-fa23-23'
+  owner: 'fa23'
+  teamId: '23'
+  identities: {}
+  notifications:
+    email: 'bei.liu@berkeley.edu'
+  members:
+    member1:
+      name: 'Bei'
+      surname: 'Liu' 
+      githubUsername: 'buzhibujuelb'
+    member2:
+      name: 'Qingcheng'
+      surname: 'Zhao' 
+      githubUsername: 'Clarivy'
+    member3:
+      name: 'Shenghan'
+      surname: 'Gao' 
+      githubUsername: 'gaoshh711'
+    member4:
+      name: 'Xinze'
+      surname: 'Guo' 
+      githubUsername: 'SunnyXinzeGuo'
