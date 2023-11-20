@@ -30,6 +30,7 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
+<<<<<<< HEAD
   login:
     logout: 'You have successfully logged out.'
     already_logged_in: 'You are already logged in. Logout to switch accounts.' 
@@ -45,3 +46,5 @@ en:
     updated: 'News item was successfully updated.'
     not_updated: 'An error occurred when updating the news item.'
     destroyed: 'News was successfully destroyed.'
+  representives:
+    id_no_found: "id is not found, please enter a valid id."
