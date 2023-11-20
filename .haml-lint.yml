@@ -5,7 +5,7 @@ linters:
         severity: error
     Indentation: # For consistency with default rubocop rules.
         character: space
-        width: 4
+        width: 2
         severity: error
 exclude:
     - 'node_modules/**/*'
