@@ -51,7 +51,7 @@ group :development, :test do
   gem 'factory_bot'
   gem 'rails-controller-testing'
   gem 'rspec-rails'
-  gem 'sqlite3', '= 1.4.3'
+  gem 'sqlite3'
 
   # Guard Plugins
   gem 'guard'
