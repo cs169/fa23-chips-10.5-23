@@ -4,6 +4,9 @@ on:
   - pull_request
   - workflow_dispatch
 
+env: 
+  RAILS_MASTER_KEY:  ${{ secrets.RAILS_MASTER_KEY }}
+
 jobs:
   # TODO: Environment variables?
   build:
@@ -15,8 +18,6 @@ jobs:
     steps:
       - name: Cache multiple paths
         uses: actions/cache@v2
-        env: 
-          RAILS_MASTER_KEY:  ${{ secrets.RAILS_MASTER_KEY }}
         with:
           path: |-
             node_modules
@@ -37,7 +38,7 @@ jobs:
       - run: bundle exec rake db:test:prepare
       - run: bundle exec rspec
       - run: bundle exec cucumber
-			- name: Upload coverage reports to Codecov
-				uses: codecov/codecov-action@v3
-				env:
-					CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
+      - name: Upload coverage reports to Codecov
+        uses: codecov/codecov-action@v3
+        env:
+         CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
