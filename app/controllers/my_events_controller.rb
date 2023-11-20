@@ -13,7 +13,7 @@ class MyEventsController < SessionController
     @event = Event.new(event_params)
 
     if @event.save
-      redirect_to events_path, notice: 'Event was successfully created.'
+      redirect_to events_path, notice: I18n.t('events.created')
     else
       render :new
     end
@@ -21,14 +21,14 @@ class MyEventsController < SessionController
 
   def update
     if @event.update(event_params)
-      redirect_to events_path, notice: 'Event was successfully updated.'
+      redirect_to events_path, notice: I18N.t('events.updated')
     else
       render :edit
     end
   end
 
   def destroy
-    redirect_to events_url, notice: 'Event was successfully destroyed.' if @event.destroy
+    redirect_to events_url, notice: I18N.t('events.destroyed') if @event.destroy
   end
 
   private

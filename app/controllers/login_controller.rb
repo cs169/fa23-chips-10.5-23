@@ -15,7 +15,7 @@ class LoginController < ApplicationController
 
   def logout
     session[:current_user_id] = nil
-    redirect_to root_path, notice: 'You have successfully logged out.'
+    redirect_to root_path, notice: I18N.t('login.logout')
   end
 
   private
@@ -69,7 +69,6 @@ class LoginController < ApplicationController
   end
 
   def already_logged_in
-    redirect_to user_profile_path, notice: 'You are already logged in. Logout to switch accounts.' \
-        if session[:current_user_id].present?
+    redirect_to user_profile_path, notice: I18N.t('login.already_logged_in') if session[:current_user_id].present?
   end
 end

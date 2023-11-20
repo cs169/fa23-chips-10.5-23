@@ -25,7 +25,7 @@ module TaskHelper
 
   # Writes content to the given Rails.root relative filename.
   def self.write_json(filename, content)
-    File.open(Rails.root.join(filename), 'w:UTF-8') do |f|
+    Rails.root.join(filename).open('w:UTF-8') do |f|
       f.write(
         JSON.pretty_generate(content)
               .force_encoding('UTF-8')
