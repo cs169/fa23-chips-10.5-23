@@ -15,25 +15,25 @@ class MyNewsItemsController < SessionController
     @news_item = NewsItem.new(news_item_params)
     if @news_item.save
       redirect_to representative_news_item_path(@representative, @news_item),
-                  notice: I18N.t('news_items.created')
+                  notice: I18n.t('news_items.created')
     else
-      render :new, error: I18N.t('news_items.not_created')
+      render :new, error: I18n.t('news_items.not_created')
     end
   end
 
   def update
     if @news_item.update(news_item_params)
       redirect_to representative_news_item_path(@representative, @news_item),
-                  notice: I18N.t('news_items.updated')
+                  notice: I18n.t('news_items.updated')
     else
-      render :edit, error: I18N.t('news_items.not_updated')
+      render :edit, error: I18n.t('news_items.not_updated')
     end
   end
 
   def destroy
     @news_item.destroy
     redirect_to representative_news_items_path(@representative),
-                notice: I18N.t('news_items.destroyed')
+                notice: I18n.t('news_items.destroyed')
   end
 
   private

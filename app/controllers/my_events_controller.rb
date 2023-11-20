@@ -21,14 +21,14 @@ class MyEventsController < SessionController
 
   def update
     if @event.update(event_params)
-      redirect_to events_path, notice: I18N.t('events.updated')
+      redirect_to events_path, notice: I18n.t('events.updated')
     else
       render :edit
     end
   end
 
   def destroy
-    redirect_to events_url, notice: I18N.t('events.destroyed') if @event.destroy
+    redirect_to events_url, notice: I18n.t('events.destroyed') if @event.destroy
   end
 
   private
