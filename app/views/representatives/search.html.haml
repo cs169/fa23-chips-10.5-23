@@ -15,6 +15,7 @@
                 %td= rep.name
                 %td= rep.title
                 %td
+                  = link_to 'Profile Page', representative_path(rep), class: 'btn btn-primary'
                   = link_to representative_news_items_path(rep.id), class: 'btn btn-primary' do
                     %i.fas.fa-newspaper
                     News Articles

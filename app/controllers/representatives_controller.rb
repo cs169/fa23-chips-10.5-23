@@ -6,10 +6,9 @@ class RepresentativesController < ApplicationController
   end
   
   def show
-    @representative = Representative.find_by(params[:id])
+    @representative = Representative.find_by(id: params[:id])
     if @representative.nil?
-      flash[:warning] = I18n.t(id_no_found)
-      redirect Representative_index_path
+      redirect_to representatives_path, warning: I18N.t('representative.id_no_found')
     end
   end
 end
