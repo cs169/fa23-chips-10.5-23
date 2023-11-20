@@ -135,3 +135,9 @@ RSpec/MultipleExpectations:
 
 RSpec/RepeatedExample:
     Enabled: false
+
+Layout/ArgumentAlignment:
+    Enabled: false
+
+Layout/HashAlignment:
+    Enabled: false
