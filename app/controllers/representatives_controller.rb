@@ -4,11 +4,13 @@ class RepresentativesController < ApplicationController
   def index
     @representatives = Representative.all
   end
-  
+
   def show
     @representative = Representative.find_by(id: params[:id])
-    if @representative.nil?
-      redirect_to representatives_path, warning: I18N.t('representative.id_no_found')
-    end
+    return unless @representative.nil?
+
+    flash[:warning] = I18n.t('representatives.id_no_found')
+    redirect_to representatives_path
+    nil
   end
 end
