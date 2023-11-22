@@ -68,4 +68,63 @@ RSpec.describe MapController, type: :controller do
       expect(response).to redirect_to root_path
     end
   end
+
+  describe 'GET county' do
+    let(:state_symbol) { 'CA' }
+    let(:state) { instance_double(State, id: 1, counties: counties) }
+    let(:county) { instance_double(County, name: 'Some County') }
+    let(:counties) { instance_double(Array) }
+    let(:representatives) { instance_double(Array) }
+
+    before do
+      allow(State).to receive(:find_by).with(symbol: state_symbol).and_return(state)
+      allow(counties).to receive(:index_by).and_return('county_details')
+      allow(RepresentativesService).to receive(:fetch).with(county.name).and_return(representatives)
+    end
+
+    context 'when state is found' do
+      before do
+        allow(controller).to receive(:get_requested_county).with(state.id).and_return(county)
+        get :county, params: { state_symbol: state_symbol, std_fips_code: 0o01 }
+      end
+
+      it 'assigns @state' do
+        expect(assigns(:state)).to eq(state)
+      end
+
+      it 'assigns @county' do
+        expect(assigns(:county)).to eq(county)
+      end
+
+      it 'assigns @county_details' do
+        expect(assigns(:county_details)).to eq('county_details')
+      end
+
+      it 'assigns @representatives' do
+        expect(assigns(:representatives)).to eq(representatives)
+      end
+    end
+
+    context 'when state is not found' do
+      before do
+        allow(State).to receive(:find_by).with(symbol: state_symbol).and_return(nil)
+        get :county, params: { state_symbol: state_symbol, std_fips_code: 0o01 }
+      end
+
+      it 'handles state not found' do
+        expect(assigns(:state)).to be_nil
+      end
+    end
+
+    context 'when county is not found' do
+      before do
+        allow(controller).to receive(:get_requested_county).with(state.id).and_return(nil)
+        get :county, params: { state_symbol: state_symbol, std_fips_code: 0o01 }
+      end
+
+      it 'handles county not found' do
+        expect(assigns(:county)).to be_nil
+      end
+    end
+  end
 end
