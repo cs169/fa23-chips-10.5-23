@@ -9,27 +9,7 @@
             %title  Map of #{@state.name} highlighting #{@county.name}
             /* SVG element will be filled using d3.js and a topojson file. */
 
-.row
-  .col-md-8.offset-md-2
-    .table-responsive-md.pt-5
-      %table.table.table-striped.table-hover#events
-        %caption Table of Representatives
-        %thead.thead-dark
-          %tr
-            %th Name
-            %th Office
-            %th Links
-        %tbody
-          - @representatives.each_with_index do |rep, _index|
-            %tr
-              %td= rep.name
-              %td= rep.title
-              %td
-                = link_to 'Profile Page', representative_path(rep), class: 'btn btn-primary'
-                = link_to representative_news_items_path(rep.id), class: 'btn btn-primary' do
-                  %i.fas.fa-newspaper
-                  News Articles
-
+= render :file => 'representatives/search'
 
 #actionmap-info-box
 .d-none#actionmap-info-container{ 'data-counties': @county_details.to_json, 'data-state': @state.to_json,
