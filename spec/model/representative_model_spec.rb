@@ -71,8 +71,9 @@ describe Representative do
   describe 'inserting an existing representative' do
     it 'calls the model method that insert an existing representative' do
       rep = described_class.civic_api_to_representative_params(rep_info_test)
-      rep += described_class.civic_api_to_representative_params(rep_info_test)
-      expect(rep.count).to eq(2)
+      expect(rep.count).to eq(1)
+      rep = described_class.civic_api_to_representative_params(rep_info_test)
+      expect(rep.count).to eq(1)
     end
   end
 end
