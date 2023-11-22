@@ -2,6 +2,9 @@
 
 FactoryBot.define do
   factory :county do
+    name { 'Berkeley' }
+
     fips_code { 1 }
+    fips_class { 1 }
   end
 end
