@@ -22,8 +22,7 @@ class Representative < ApplicationRecord
     return reps unless check_validation_rep_info(rep_info)
 
     rep_info.officials.each_with_index do |official, index|
-      ocdid_temp = ''
-      title_temp = ''
+      ocdid_temp = title_temp = ''
       rep_info.offices.each do |office|
         if office.official_indices.include? index
           title_temp = office.name
@@ -31,13 +30,15 @@ class Representative < ApplicationRecord
         end
       end
 
-      next unless Representative.where(name: official.name, ocdid: ocdid_temp, title: title_temp).empty?
+      rep = Representative.where(name: official.name, ocdid: ocdid_temp, title: title_temp)
 
-      rep =
-        Representative.new(
-          { name: official.name, ocdid: ocdid_temp, title: title_temp }
-        )
-      reps.push(rep) if rep.save
+      if rep.empty?
+        rep = Representative.new({ name: official.name, ocdid: ocdid_temp, title: title_temp })
+        rep.save
+      else
+        rep = rep.first
+      end
+      reps.push(rep)
     end
     reps
   end
