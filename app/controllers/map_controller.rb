@@ -25,9 +25,8 @@ class MapController < ApplicationController
 
     @county_details = @state.counties.index_by(&:std_fips_code)
 
-		@representatives = RepresentativesService.fetch(@county.name)
+    @representatives = RepresentativesService.fetch(@county.name)
   end
-
 
   private
 

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class RepresentativesService
   def self.fetch(address)
     service = Google::Apis::CivicinfoV2::CivicInfoService.new
