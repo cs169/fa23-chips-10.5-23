@@ -20,7 +20,7 @@
       .collapse#actionmap-state-details-collapse{ 'data-parent': '#actionmap-counties-details-header',
       'aria-labelledby': '#actionmap-counties-details-header' }
         .card-body
-          = render 'representatives/search'
+          = render 'representatives/search', representatives: @representatives
 
 #actionmap-info-box
 .d-none#actionmap-info-container{ 'data-counties': @county_details.to_json, 'data-state': @state.to_json,
