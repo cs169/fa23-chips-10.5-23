@@ -21,9 +21,11 @@ class MapController < ApplicationController
     handle_state_not_found && return if @state.nil?
 
     @county = get_requested_county @state.id
-    handle_county_not_found && return if @state.nil?
+    handle_county_not_found && return if @county.nil?
 
     @county_details = @state.counties.index_by(&:std_fips_code)
+
+    @representatives = RepresentativesService.fetch(@county.name)
   end
 
   private
