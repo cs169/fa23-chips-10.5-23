@@ -4,11 +4,7 @@ require 'google/apis/civicinfo_v2'
 
 class SearchController < ApplicationController
   def search
-    address = params[:address]
-    service = Google::Apis::CivicinfoV2::CivicInfoService.new
-    service.key = Rails.application.credentials[Rails.env.to_sym][:GOOGLE_API_KEY]
-    result = service.representative_info_by_address(address: address)
-    @representatives = Representative.civic_api_to_representative_params(result)
+		@representatives = RepresentativesService.fetch(params[:address])
 
     render 'representatives/search'
   end
