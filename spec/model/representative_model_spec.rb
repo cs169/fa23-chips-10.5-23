@@ -26,10 +26,31 @@ office =
       official_indices: [0]
     }
   )
-official = HashWrap.new({ name: 'test_official_name' })
+address_one = HashWrap.new({
+                             locationName: 'locationName',
+  line1: '',
+  line2: '',
+  line3: '',
+  city: '',
+  state: '',
+  zip: ''
+                           })
+
+official = HashWrap.new({ name: 'test_official_name',
+  address: [address_one],
+  party: 'gcd',
+  photo_url: 'test_url' })
 rep_info_test = { offices: [office], officials: [official] }
 rep_info_test = HashWrap.new(rep_info_test)
 
+official_without_adderss = HashWrap.new({ name: 'test_official_name',
+  address: [],
+  party: 'gcd',
+
+  photo_url: 'test_url' })
+rep_info_test_without_adderss = { offices: [office], officials: [official_without_adderss] }
+
+rep_info_test_without_adderss = HashWrap.new(rep_info_test_without_adderss)
 describe Representative do
   describe 'insert with BLANK parameters' do
     it 'calls the model method that insert a representative but with BLANK parameters' do
@@ -65,6 +86,15 @@ describe Representative do
       expect(rep.name).to eq('test_official_name')
       expect(rep.ocdid).to eq('test_division_ID')
       expect(rep.title).to eq('test_office_name')
+      expect(rep.contact_address).to eq(', , , ')
+    end
+  end
+
+  describe 'insert a representative with blank address' do
+    it 'calls the model method with a blank address' do
+      rep = described_class.civic_api_to_representative_params(rep_info_test_without_adderss)[0]
+
+      expect(rep.contact_address).to eq('unavailable')
     end
   end
 
