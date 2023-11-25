@@ -16,7 +16,7 @@ class Representative < ApplicationRecord
   end
 
   def self.create_address_temp(official)
-    if official.address
+    if official.address.present?
       [official.address[0].city, official.address[0].line1, official.address[0].state,
        official.address[0].zip].join(', ')
     else
