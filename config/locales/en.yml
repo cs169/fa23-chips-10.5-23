@@ -30,20 +30,21 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  login:
-    logout: 'You have successfully logged out.'
-    already_logged_in: 'You are already logged in. Logout to switch accounts.' 
-  events:
-    created: 'Event was successfully created.'
-    updated: 'Event was successfully updated.'
-    destroyed: 'Event was successfully destroyed.'
-    start_time_after_now: 'must be after today'
-    end_time_after_start_time: 'must be after start time'
-  news_items:
-    created: 'News item was successfully created.'
-    not_created: 'An error occurred when creating the news item.'
-    updated: 'News item was successfully updated.'
-    not_updated: 'An error occurred when updating the news item.'
-    destroyed: 'News was successfully destroyed.'
-  representatives:
-    id_no_found: "id is not found, please enter a valid id."
+    login:
+        logout: "You have successfully logged out."
+        already_logged_in: "You are already logged in. Logout to switch accounts."
+    events:
+        created: "Event was successfully created."
+        updated: "Event was successfully updated."
+        destroyed: "Event was successfully destroyed."
+        start_time_after_now: "must be after today"
+        end_time_after_start_time: "must be after start time"
+    news_items:
+        created: "News item was successfully created."
+        not_created: "An error occurred when creating the news item."
+        updated: "News item was successfully updated."
+        not_updated: "An error occurred when updating the news item."
+        destroyed: "News was successfully destroyed."
+    representatives:
+        id_no_found: "id is not found, please enter a valid id."
+        blank_location_input: "Please input a location"

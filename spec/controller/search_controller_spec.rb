@@ -15,7 +15,6 @@ RSpec.describe SearchController, type: :controller do
       allow(service).to receive(:key=)
       allow(service).to receive(:representative_info_by_address).with(address: address).and_return(result)
       allow(Representative).to receive(:civic_api_to_representative_params).with(result).and_return(rep)
-
       get :search, params: { address: address }
     end
 
@@ -25,6 +24,15 @@ RSpec.describe SearchController, type: :controller do
 
     it 'renders the search template' do
       expect(response).to render_template('representatives/search')
+    end
+  end
+
+  describe 'Get Search with blank parameter' do
+    let(:address) { '' }
+
+    it 'input blank parameter' do
+      get :search, params: { address: address }
+      expect(response).to redirect_to(representatives_path)
     end
   end
 end
