@@ -3,10 +3,12 @@
     %h1.text-center Edit news article
 
   .col-12.col-md-6.offset-md-3.col-xl-4.offset-xl-4
+   
     = render 'form', news_item: @news_item,
     form_url: representative_new_my_news_item_path(@representative),
     form_method: :post,
-    representatives_list: @representatives_list
+    representatives_list: @representatives_list,
+    issue_list: @issue_list
   .col-12.col-md-6.offset-md-3.col-xl-4.offset-xl-4
     .clearfix.mt-3
       .float-right
