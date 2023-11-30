@@ -40,8 +40,8 @@ Rails.application.config.middleware.use OmniAuth::Builder do
   provider :developer unless Rails.env.production?
   setup_omniauth_mocks unless Rails.env.production?
 
-  provider :google_oauth2, Rails.application.credentials[:GOOGLE_CLIENT_ID],
-           Rails.application.credentials[:GOOGLE_CLIENT_SECRET],
+  provider :google_oauth2, Rails.application.credentials[Rails.env.to_sym][:GOOGLE_CLIENT_ID],
+           Rails.application.credentials[Rails.env.to_sym][:GOOGLE_CLIENT_SECRET],
            {
              scope:              'userinfo.email, userinfo.profile',
              prompt:             'select_account',
@@ -49,6 +49,6 @@ Rails.application.config.middleware.use OmniAuth::Builder do
              image_size:         50
            }
 
-  provider :github, Rails.application.credentials[:GITHUB_CLIENT_ID],
-           Rails.application.credentials[:GITHUB_CLIENT_SECRET]
+  provider :github, Rails.application.credentials[Rails.env.to_sym][:GITHUB_CLIENT_ID],
+           Rails.application.credentials[Rails.env.to_sym][:GITHUB_CLIENT_SECRET]
 end
