@@ -6,8 +6,8 @@
 
       <%= form_with(model: @my_news_item, url: representative_submit_view1_path(representative_id: @representative.id), local: true) do |form| %>
       <div class="field">
-        <%= form.label :representative_id, 'Representative' %>
-        <%= form.select :representative_id, options_for_select(@representatives_list), { include_blank: 'Please Select' } %>
+        <%= form.label :representative_name, 'Representative' %>
+        <%= form.select :representative_name, options_for_select(@representatives_list), include_blank: 'Please Select' %>
       </div>
       <div class="field">
         <%= form.label :issue, 'Issue' %>
