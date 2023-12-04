@@ -6,7 +6,13 @@ class MyNewsItemsController < SessionController
   before_action :set_news_item, only: %i[edit update destroy]
   before_action :set_issue_list
   def new
-    @news_item = NewsItem.new
+    @representatives_list = Representative.pluck(:name)
+  end
+
+  def search
+    @rep_id = params[:representative_id].to_i
+    @issue = params[:issue]
+    @articles = NewsItem.search_articles(@rep_id, @issue)
   end
 
   def edit; end
