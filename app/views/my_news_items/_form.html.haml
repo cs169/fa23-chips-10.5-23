@@ -22,6 +22,12 @@
     .col-sm-10
       = text_area :news_item, :description, { class: 'form-control',
       placeholder: 'Describe the contents of the article...' }
+
+  .form-group.row
+    .col-sm-2
+      = label :news_item, :issue, class: 'col-form-label'
+    .col-sm-10
+      = select :news_item, :issue, issue_list, { class: 'form-control' }
   .form-group.row
     .col-sm-2
       = label :news_item, :representative_id, class: 'col-form-label'

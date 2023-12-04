@@ -9,7 +9,7 @@ describe NewsItem do
 
     it 'returns news items for a given representative' do
       news_item
-      expect(described_class.find_for(representative.id).title).to eq('fake_title')
+      expect(described_class.find_for(representative.id).title).to eq('test')
     end
   end
 end
