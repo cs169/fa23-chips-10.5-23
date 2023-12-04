@@ -43,6 +43,8 @@ gem 'rubyzip'
 
 gem 'date_validator'
 
+gem 'news-api'
+
 group :development, :test do
   gem 'axe-core-cucumber'
   gem 'axe-core-rspec'
