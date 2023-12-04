@@ -28,17 +28,35 @@ RSpec.describe MyNewsItemsController, type: :controller do
     before do
       @article1 = instance_double(NewsItem)
       @article2 = instance_double(NewsItem)
-      allow(NewsItem).to receive(:search_articles).with(1, 'Abortion').and_return([@article1, @article2])
+      allow(NewsItem).to receive(:search_articles).and_return([@article1, @article2])
     end
 
-    it 'Given params, it calls search_articles with the correct parameters' do
-      post :search, params: { representative_id: 1, issue: 'Abortion' }
-      expect(NewsItem).to have_received(:search_articles).with(1, 'Abortion')
+    it 'calls search_articles with the correct parameters with given params' do
+      post :search, params: { representative_id: 1, issue: 'Abortion', representative_name: 'Biden' }
+      expect(NewsItem).to have_received(:search_articles).with('Biden', 'Abortion')
     end
 
     it 'renders the search template' do
-      post :search, params: { representative_id: 1, issue: 'Abortion' }
+      post :search, params: { representative_id: 1, issue: 'Abortion', representative_name: 'Biden' }
       expect(response).to render_template('search')
+    end
+
+    it 'render the new view if params miss both issue and representative_name' do
+      post :search, params: { representative_id: 1, issue: '', representative_name: '' }
+      expect(response).to render_template('new')
+      expect(flash[:notice]).to eq 'Search is invalid. Please select one representative and one issue.'
+    end
+
+    it 'render the new view if params miss representative_name' do
+      post :search, params: { representative_id: 1, issue: 'Abortion', representative_name: '' }
+      expect(response).to render_template('new')
+      expect(flash[:notice]).to eq 'Search is invalid. Please select one representative from the dropdown menu.'
+    end
+
+    it 'render the new view if params miss issue' do
+      post :search, params: { representative_id: 1, representative_name: 'Biden', issue: '' }
+      expect(response).to render_template('new')
+      expect(flash[:notice]).to eq 'Search is invalid. Please select one issue from the dropdown menu.'
     end
   end
 

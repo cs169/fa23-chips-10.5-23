@@ -10,9 +10,22 @@ class MyNewsItemsController < SessionController
   end
 
   def search
-    @rep_id = params[:representative_id].to_i
+    @rep_name = params[:representative_name]
     @issue = params[:issue]
-    @articles = NewsItem.search_articles(@rep_id, @issue)
+    if (@rep_name == '') && (@issue == '')
+      flash.now[:notice] = I18n.t('news_items.neither_search')
+      render :new
+      return
+    elsif @rep_name == ''
+      flash.now[:notice] = I18n.t('news_items.no_rep_search')
+      render :new
+      return
+    elsif @issue == ''
+      flash.now[:notice] = I18n.t('news_items.no_issue_search')
+      render :new
+      return
+    end
+    @articles = NewsItem.search_articles(@rep_name, @issue)
   end
 
   def edit; end
@@ -68,6 +81,7 @@ Neutrality", 'Religious Freedom', 'Border Security', 'Minimum Wage',
 
   # Only allow a list of trusted parameters through.
   def news_item_params
-    params.require(:news_item).permit(:news, :title, :description, :link, :representative_id, :issue)
+    params.require(:news_item).permit(:news, :title, :description, :link, :representative_id, :issue,
+:representative_name)
   end
 end
