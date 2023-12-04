@@ -6,7 +6,9 @@ class NewsItem < ApplicationRecord
   belongs_to :representative
   has_many :ratings, dependent: :delete_all
 
-  @news_api = News.new(Rails.application.credentials[Rails.env.to_sym][:NEWS_API_KEY])
+  def self.news_api
+    @news_api ||= News.new(Rails.application.credentials[Rails.env.to_sym][:NEWS_API_KEY])
+  end
 
   def self.find_for(representative_id)
     NewsItem.find_by(
@@ -24,8 +26,6 @@ class NewsItem < ApplicationRecord
     query = "#{rep_name}+#{issue}"
 
     # Get the articles
-    @news_api.get_everything(q: query, language: 'en', sortBy: 'relevancy', page: 1, pageSize: 5)
-
-    # Return the articles
+    news_api.get_everything(q: query, language: 'en', sortBy: 'relevancy', page: 1, pageSize: 5)
   end
 end
