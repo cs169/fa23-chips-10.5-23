@@ -14,15 +14,7 @@ class NewsItem < ApplicationRecord
     )
   end
 
-  def self.search_articles(rep_id, issue)
-    # Get the representative's name
-    rep = Representative.find(rep_id)
-    rep_name = rep.name
-    rep_name = rep_name.split
-    # rep_name  = rep_name.map { |name| '"' + name + '"' } # Add '"' to name search exact name
-    # Join the name
-    rep_name = rep_name.join('+')
-
+  def self.search_articles(rep_name, issue)
     # Get the issue
     issue = issue.split
     # issue = issue.map { |issue| '"' + issue + '"' } # Add '"' to issue search exact issue
