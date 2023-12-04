@@ -9,4 +9,6 @@ class NewsItem < ApplicationRecord
       representative_id: representative_id
     )
   end
+
+  def self.search_articles(rep_id, issue); end
 end

@@ -6,21 +6,39 @@ RSpec.describe MyNewsItemsController, type: :controller do
   before do
     User.create!(uid: '12345', provider: 'google_oauth2')
     session[:current_user_id] = 1
-    Representative.create!(id: 1)
+    Representative.create!(id: 1, name: 'Biden')
     @representative = Representative.first
     @news_item = instance_double(NewsItem)
     allow(NewsItem).to receive(:find).and_return(@news_item)
   end
 
   describe 'GET #new' do
-    it 'assigns a new news_item to @news_item' do
+    it 'successfully generate a list of representatives name' do
       get :new, params: { representative_id: 1 }
-      expect(assigns(:news_item)).to be_a_new(NewsItem)
+      expect(assigns(:representatives_list)).to eq Representative.pluck(:name)
     end
 
     it 'renders the new template' do
       get :new, params: { representative_id: 1 }
       expect(response).to render_template('new')
+    end
+  end
+
+  describe 'POST #search' do
+    before do
+      @article1 = instance_double(NewsItem)
+      @article2 = instance_double(NewsItem)
+      allow(NewsItem).to receive(:search_articles).with(1, 'Abortion').and_return([@article1, @article2])
+    end
+
+    it 'Given params, it calls search_articles with the correct parameters' do
+      post :search, params: { representative_id: 1, issue: 'Abortion' }
+      expect(NewsItem).to have_received(:search_articles).with(1, 'Abortion')
+    end
+
+    it 'renders the search template' do
+      post :search, params: { representative_id: 1, issue: 'Abortion' }
+      expect(response).to render_template('search')
     end
   end
 
