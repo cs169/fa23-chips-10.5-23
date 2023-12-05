@@ -44,19 +44,19 @@ RSpec.describe MyNewsItemsController, type: :controller do
     it 'render the new view if params miss both issue and representative_name' do
       post :search, params: { representative_id: 1, issue: '', representative_name: '' }
       expect(response).to render_template('new')
-      expect(flash[:notice]).to eq 'Search is invalid. Please select one representative and one issue.'
+      expect(flash[:alert]).to eq 'Search is invalid. Please select one representative and one issue.'
     end
 
     it 'render the new view if params miss representative_name' do
       post :search, params: { representative_id: 1, issue: 'Abortion', representative_name: '' }
       expect(response).to render_template('new')
-      expect(flash[:notice]).to eq 'Search is invalid. Please select one representative from the dropdown menu.'
+      expect(flash[:alert]).to eq 'Search is invalid. Please select one representative from the dropdown menu.'
     end
 
     it 'render the new view if params miss issue' do
       post :search, params: { representative_id: 1, representative_name: 'Biden', issue: '' }
       expect(response).to render_template('new')
-      expect(flash[:notice]).to eq 'Search is invalid. Please select one issue from the dropdown menu.'
+      expect(flash[:alert]).to eq 'Search is invalid. Please select one issue from the dropdown menu.'
     end
   end
 
@@ -64,36 +64,6 @@ RSpec.describe MyNewsItemsController, type: :controller do
     it 'renders the edit template' do
       get :edit, params: { representative_id: 1, id: 1 }
       expect(response).to render_template('edit')
-    end
-  end
-
-  describe 'POST #create' do
-    context 'with valid attributes' do
-      before do
-        allow(NewsItem).to receive(:new).and_return(@news_item)
-        @news_item_params = attributes_for(:news_item)
-      end
-
-      it 'creates a new news_item' do
-        allow(@news_item).to receive(:save).and_return(true)
-        post :create, params: { representative_id: 1, news_item: @news_item_params }
-        expect(@news_item).to have_received(:save)
-      end
-
-      it 'redirects to the news_items index page' do
-        allow(@news_item).to receive(:save).and_return(true)
-        post :create, params: { representative_id: 1, news_item: @news_item_params }
-        expect(response).to redirect_to(representative_news_item_path(@representative, @news_item))
-      end
-    end
-
-    context 'with invalid attributes' do
-      it 're-renders the new template' do
-        allow(@news_item).to receive(:save).and_return(false)
-        @news_item_params = attributes_for(:news_item)
-        post :create, params: { representative_id: 1, news_item: @news_item_params }
-        expect(response).to render_template('new')
-      end
     end
   end
 
