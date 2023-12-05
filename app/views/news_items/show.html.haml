@@ -13,9 +13,13 @@
           %dt.col-sm-9
             = @news_item.description
         %dl.row
-          %dt.col-sm-3.text-md-right issue:
+          %dt.col-sm-3.text-md-right Issue:
           %dt.col-sm-9
             = @news_item.issue
+        %dl.row
+          %dt.col-sm-3.text-md-right Rating:
+          %dt.col-sm-9
+            = @news_item.ratings.first.score
         %dl.row
           %dt.col-sm-3.text-md-right Representative:
           %dt.col-sm-9

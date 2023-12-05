@@ -18,6 +18,11 @@
       = text_field :news_item, :link, { class: 'form-control', placeholder: 'Link to external article...' }
   .form-group.row
     .col-sm-2
+      = label :news_item, :ratings, class: 'col-form-label'
+    .col-sm-10
+      = select :news_item, :ratings, options_for_select(1..5), {}, { class: 'form-control' }
+  .form-group.row
+    .col-sm-2
       = label :news_item, :description, class: 'col-form-label'
     .col-sm-10
       = text_area :news_item, :description, { class: 'form-control',

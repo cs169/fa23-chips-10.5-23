@@ -19,6 +19,7 @@
               %th Name
               %th Description
               %th Posted
+              %th Rating
               %th{ colspan: 3 } Links
           %tbody
             - @news_items.each_with_index do |item, index|
@@ -32,6 +33,7 @@
                 %td= item.description
                 %td
                   %time.timeago{ datetime: item.created_at.iso8601 }
+                %td= item.ratings.first.score
                 %td
                   = link_to representative_news_item_path(item.representative.id, item.id),
                   class: 'btn btn-info' do
