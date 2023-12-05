@@ -50,7 +50,12 @@ class MyNewsItemsController < SessionController
   end
 
   def update
-    if @news_item.update(news_item_params)
+    user_id = session[:current_user_id]
+    rating = @news_item.ratings.where(user_id: user_id).first
+    rating.update(score: news_item_params[:ratings])
+    news_item_update_params = news_item_params
+    news_item_update_params.delete(:ratings)
+    if @news_item.update(news_item_update_params)
       redirect_to representative_news_item_path(@representative, @news_item),
         notice: I18n.t('news_items.updated')
     else
@@ -100,6 +105,6 @@ Neutrality", 'Religious Freedom', 'Border Security', 'Minimum Wage',
   # Only allow a list of trusted parameters through.
   def news_item_params
     params.require(:news_item).permit(:news, :title, :description, :link, :representative_id, :issue,
-                                      :representative_name)
+                                      :representative_name, :ratings)
   end
 end
