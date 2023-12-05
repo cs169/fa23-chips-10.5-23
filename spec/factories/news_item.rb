@@ -2,7 +2,10 @@
 
 FactoryBot.define do
   factory :news_item do
-    title { 'fake_title' }
+    title { 'test' }
+    link { 'test' }
+    description { 'test' }
+    issue { 'Free Speech' }
     representative
   end
 end

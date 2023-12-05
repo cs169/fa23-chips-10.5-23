@@ -1,0 +1,49 @@
+<div class="container">
+
+  <div class="row justify-content-center">
+    <div class="col-md-6">
+      <h2 class="my-4"> Edit News Item </h2>
+      <%= form_with(model: @news_item, url: representative_news_item_create_path(), local: true) do |form| %>
+        <div class="field">
+          <%= form.label :representative_name, 'Representative:' %>
+          <%= link_to @rep_name, representative_path(@rep_id)   %>
+          <%= form.hidden_field "news_item[representative_id]", value: @rep_id%>
+          <%= form.hidden_field :representative_name, value: @rep_name%>
+        </div>
+        <div class="field">
+          <%= form.label :issue, 'Issue:' %>
+          <%= form.text_field "news_item[issue]" , value: @issue%>
+        </div>
+        <fieldset class="article-list">
+          <% @articles.each do |article| %>
+            <div class="radio-button-group">
+              <div style="display: flex; margin-bottom: 20px;align-items: flex-start;">
+              <%= radio_button_tag :selected_article_id, article.title %>
+                <div>
+                  <div><strong>Title: </strong><%= article.title %></div>
+                  <div><strong>Link: </strong><%= link_to nil, article.url, target: "_blank"  %></div>
+                  <div><strong>Description: </strong><%= article.description %></div>
+        <%= hidden_field_tag "news_item[article_#{article.title}_title]", article.title %>
+        <%= hidden_field_tag "news_item[article_#{article.title}_link]", article.url %>
+        <%= hidden_field_tag "news_item[article_#{article.title}_description]", article.description %>
+                </div>
+              </div>
+            </div>
+          <% end %>
+        </fieldset>
+        <div class="field">
+          <%= form.label :rating %>
+          <%= form.select :rating, options_for_select(1..5) %>
+        </div>
+        <div style="display: flex;justify-content: space-around;">
+          <div class="actions">
+            <%= form.submit "Save" , class: 'btn btn-success' %>
+          </div>
+          <%= link_to 'View News Articles', representative_news_items_path(@rep_id), class: 'btn btn-primary' %>
+        </div>
+
+      <% end %>
+
+    </div>
+  </div>
+</div>

@@ -1,0 +1,23 @@
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-md-6 text-center">
+
+      <h2 class="my-4"> Edit News Item </h2>
+
+      <%= form_with(model: @my_news_item, url: representative_submit_view1_path(representative_id: @representative.id), local: true) do |form| %>
+      <div class="field">
+        <%= form.label :representative_name, 'Representative' %>
+        <%= form.select :representative_name, options_for_select(@representatives_list), include_blank: 'Please Select' %>
+      </div>
+      <div class="field">
+        <%= form.label :issue, 'Issue' %>
+        <%= form.select :issue, options_for_select(@issue_list), { include_blank: 'Please Select' } %>
+      </div>
+      <div class="actions">
+        <%= form.submit "Search" %>
+      </div>
+      <% end %>
+
+    </div>
+  </div>
+</div>
