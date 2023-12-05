@@ -5,9 +5,7 @@ class MyNewsItemsController < SessionController
   before_action :set_representatives_list
   before_action :set_news_item, only: %i[edit update destroy]
   before_action :set_issue_list
-  def new
-    @representatives_list = Representative.pluck(:name)
-  end
+  def new; end
 
   def search
     @rep_name = params[:representative_name]
@@ -78,7 +76,7 @@ class MyNewsItemsController < SessionController
   end
 
   def set_representatives_list
-    @representatives_list = Representative.all.map { |r| [r.name, r.id] }
+    @representatives_list = Representative.all.map(&:name)
   end
 
   def build_news_item_from_params
