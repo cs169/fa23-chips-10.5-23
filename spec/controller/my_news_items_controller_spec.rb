@@ -96,6 +96,35 @@ RSpec.describe MyNewsItemsController, type: :controller do
     end
   end
 
+  describe 'POST #create' do
+    let(:mock_news_item) { instance_double(NewsItem, save: false) }
+
+    before do
+      @news_item_params = attributes_for(:news_item)
+    end
+
+    it 'redirect to fail when no parameter' do
+      post :create,
+params: { representative_id: 1, 'news_item[representative_id]': 1, 'news_item[issue]': 123, rating: 1 }
+      expect(response).to render_template(:new)
+      expect(flash[:alert]).to eq I18n.t('news_items.need_selection')
+    end
+
+    it 'save fail and show alert' do
+      allow(controller).to receive(:build_news_item_from_params).and_return(mock_news_item)
+      post :create, params: { selected_article_id: 1, representative_id: 1 }
+      expect(response).to render_template(:new)
+      expect(flash[:alert]).to eq I18n.t('news_items.not_created')
+    end
+
+    it 'redirect to representative_news_item_path' do
+      allow(@news_item).to receive(:save).and_return(true)
+      post :create, params: { selected_article_id: 1, representative_id: 1, 'news_item[article_1_title]': 2,
+'news_item[article_1_link]': 1, 'news_item[article_1_description]': 3, 'news_item[representative_id]': 1 }
+      expect(response).to redirect_to representative_news_item_path(id: 1)
+    end
+  end
+
   describe 'DELETE #destroy' do
     before do
       allow(@news_item).to receive(:destroy).and_return(true)
