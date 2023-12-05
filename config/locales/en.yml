@@ -48,6 +48,7 @@ en:
         no_rep_search: "Search is invalid. Please select one representative from the dropdown menu."
         no_issue_search: "Search is invalid. Please select one issue from the dropdown menu."
         neither_search: "Search is invalid. Please select one representative and one issue."
+        need_selection: "Please select one article to rate"
     representatives:
         id_no_found: "id is not found, please enter a valid id."
         blank_location_input: "Please input a location"
