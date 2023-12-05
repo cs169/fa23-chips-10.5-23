@@ -9,7 +9,12 @@ RSpec.describe MyNewsItemsController, type: :controller do
     Representative.create!(id: 1, name: 'Biden')
     @representative = Representative.first
     @news_item = instance_double(NewsItem)
+    @rating = class_double(Rating)
     allow(NewsItem).to receive(:find).and_return(@news_item)
+    allow(@news_item).to receive(:ratings).and_return(@rating)
+    allow(@rating).to receive(:where).and_return(@rating)
+    allow(@rating).to receive(:first).and_return(@rating)
+    allow(@rating).to receive(:update).and_return(true)
   end
 
   describe 'GET #new' do
@@ -71,6 +76,7 @@ RSpec.describe MyNewsItemsController, type: :controller do
     context 'with valid attributes' do
       before do
         @news_item_params = attributes_for(:news_item)
+        @news_item_params[:ratings] = 1
       end
 
       it 'updates the news_item' do
