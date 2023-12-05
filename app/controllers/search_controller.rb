@@ -8,6 +8,11 @@ class SearchController < ApplicationController
       return
     end
     @representatives = RepresentativesService.fetch(params[:address])
+    if @representatives.nil?
+      flash[:warning] = I18n.t('representatives.invalid_location_input')
+      redirect_to representatives_path
+      return
+    end
     render 'representatives/search'
   end
 end

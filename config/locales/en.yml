@@ -52,3 +52,4 @@ en:
     representatives:
         id_no_found: "id is not found, please enter a valid id."
         blank_location_input: "Please input a location"
+        invalid_location_input: "No representatives found for address"
